@@ -19,7 +19,8 @@ var DATA_DIRECTORY = 'idsToConvert/'
 
 fs.readdir(DATA_DIRECTORY, function(err, files) {
 	if (err) throw err;
-	files.forEach(function(file) {
+	for(var i=0; i<files.length; i++) {
+		var file = files[i];
 		var rl = require('readline').createInterface({
 			input: require('fs').createReadStream(DATA_DIRECTORY + file)
 		});
@@ -27,7 +28,15 @@ fs.readdir(DATA_DIRECTORY, function(err, files) {
 		rl.on('line', function (userId) {
 			addUserIdToQueue(file, userId)
 		});
-	});
+
+		(function(i) {
+			rl.on('close', function () {
+				if (i == files.length -1) {
+					processQueue();
+				}
+			});
+		})(i);
+	}
 });
 
 
@@ -53,7 +62,6 @@ function sendBatchUserRequest() {
 	for (var i=0; i<batchOfUsers.length; i++) {
 		ids.push(batchOfUsers[i].userId)
 		ids.push(batchOfUsers[i].filename)
-		console.log(batchOfUsers[i].filename)
 		userLookup[batchOfUsers[i].userId] = {filename: batchOfUsers[i].filename, dataRow: true}
 	}
 
@@ -95,8 +103,8 @@ function onlyUnique(value, index, self) {
 
 function processQueue() {
 	if (userIdQueue.length >= 80) {
-		console.log("Poping queue")
+		console.log("Popping queue")
 		sendBatchUserRequest()
-		setTimeout(processQueue, 1*1000)
+		setTimeout(processQueue, 15*1000)
 	}
 }
