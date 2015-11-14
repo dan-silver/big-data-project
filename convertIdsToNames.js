@@ -33,43 +33,63 @@ fs.readdir(DATA_DIRECTORY, function(err, files) {
 
 var userIdQueue = []
 function addUserIdToQueue(file, userId) {
-	userIdQueue.push({userId: userId, filename: file});
-	if (userIdQueue.length >= 100) {
+	userIdQueue.push({userId: userId, filename: file.replace('.txt', '')});
+	if (userIdQueue.length >= 50) {
 		sendBatchUserRequest()
 	}
 }
 
 function sendBatchUserRequest() {
-	var batchOfUsers = userIdQueue.splice(0, 100);
+	var batchOfUsers = userIdQueue.splice(0, 75);
 
 	// object format
 	// {userId, filename}
 
-	console.log(batchOfUsers.length)
+	console.log("Looking up ", batchOfUsers.length, "users")
 
 	//create object with key=userId value=filename
 
 	var userLookup = {}
 	var ids = []
+
 	for (var i=0; i<batchOfUsers.length; i++) {
 		ids.push(batchOfUsers[i].userId)
-		userLookup[batchOfUsers[i].userId] = batchOfUsers[i].filename
+		ids.push(batchOfUsers[i].filename)
+		console.log(batchOfUsers[i].filename)
+		userLookup[batchOfUsers[i].userId] = {filename: batchOfUsers[i].filename, dataRow: true}
 	}
 
-	console.log(ids)
+	// console.log(userLookup)
+
+	var ids = ids.filter(onlyUnique);
 
 	T.get('users/lookup', { user_id: ids.join(',') },  function(error, data, response) {
-		if (error) {
-			throw error;
-		}
-		// console.log('success')
-		// console.log(data)
-		for (var i=0; i<data.length; i++) {
-			console.log(data[i])
-		}
-		// console.log(data[0])
-		// console.log('success')
+		if (error) throw error;
 
-		// @todo append output to file with list of names
+		for (var i=0; i<data.length; i++) {
+			if (data[i].id in userLookup) {
+				userLookup[data[i].id].name = data[i].name
+			} else {
+				userLookup[data[i].id] = {name: data[i].name}
+			}
+		}
+		// console.log(userLookup)
+
+
+		var lines = []
+		for (var i=0; i<data.length; i++) {
+			if (data[i].id in userLookup && userLookup[data[i].id].dataRow) {
+				console.log(data[i].id, data[i].name, userLookup[data[i].id].filename, userLookup[userLookup[data[i].id].filename].name)
+				lines.push(userLookup[userLookup[data[i].id].filename].name + "\t" + data[i].name)
+			}
+		}
+
+		fs.appendFile('userFollowingList.txt', lines.join('\n'), function (error) {
+			if (error) throw error;
+		});
 	});
+}
+
+function onlyUnique(value, index, self) { 
+    return self.indexOf(value) === index;
 }
