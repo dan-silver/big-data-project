@@ -15,7 +15,7 @@ var T = new Twit({
   access_token_secret: keys.access_token_secret
 });
 
-var DATA_DIRECTORY = 'data/'
+var DATA_DIRECTORY = 'idsToConvert/'
 
 fs.readdir(DATA_DIRECTORY, function(err, files) {
 	if (err) throw err;
@@ -25,30 +25,37 @@ fs.readdir(DATA_DIRECTORY, function(err, files) {
 		});
 
 		rl.on('line', function (userId) {
-			addUserIdToQueue(userId)
+			addUserIdToQueue(file, userId)
 		});
 	});
 });
 
 
 var userIdQueue = []
-function addUserIdToQueue(userId) {
-	userIdQueue.push(userId);
+function addUserIdToQueue(file, userId) {
+	userIdQueue.push({id: userId, filename: file});
 	if (userIdQueue.length >= 100) {
 		sendBatchUserRequest()
 	}
 }
 
 function sendBatchUserRequest() {
-	var batchOfUsers = userIdQueue.slice(0, 100);
+	var batchOfUsers = userIdQueue.splice(0, 100);
 
-	T.get('users/lookup', { user_id: batchOfUsers.join(',')},  function(error, data, response) {
+	// object format
+	// {userId, filename}
+
+	console.log(batchOfUsers.length)
+
+	T.get('users/lookup', { user_id: batchOfUsers.join(',') },  function(error, data, response) {
 		if (error) {
-			console.error(error)
-			console.log('success')
-			console.log(data)
-			console.log(data[0])
-			console.log('success')
+			throw error;
 		}
+		// console.log('success')
+		// console.log(data)
+		// console.log(data[0])
+		// console.log('success')
+
+		// @todo append output to file with list of names
 	});
 }
