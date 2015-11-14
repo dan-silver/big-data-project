@@ -33,7 +33,7 @@ fs.readdir(DATA_DIRECTORY, function(err, files) {
 
 var userIdQueue = []
 function addUserIdToQueue(file, userId) {
-	userIdQueue.push({id: userId, filename: file});
+	userIdQueue.push({userId: userId, filename: file});
 	if (userIdQueue.length >= 100) {
 		sendBatchUserRequest()
 	}
@@ -47,12 +47,26 @@ function sendBatchUserRequest() {
 
 	console.log(batchOfUsers.length)
 
-	T.get('users/lookup', { user_id: batchOfUsers.join(',') },  function(error, data, response) {
+	//create object with key=userId value=filename
+
+	var userLookup = {}
+	var ids = []
+	for (var i=0; i<batchOfUsers.length; i++) {
+		ids.push(batchOfUsers[i].userId)
+		userLookup[batchOfUsers[i].userId] = batchOfUsers[i].filename
+	}
+
+	console.log(ids)
+
+	T.get('users/lookup', { user_id: ids.join(',') },  function(error, data, response) {
 		if (error) {
 			throw error;
 		}
 		// console.log('success')
 		// console.log(data)
+		for (var i=0; i<data.length; i++) {
+			console.log(data[i])
+		}
 		// console.log(data[0])
 		// console.log('success')
 
