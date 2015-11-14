@@ -32,15 +32,13 @@ fs.readdir(DATA_DIRECTORY, function(err, files) {
 
 
 var userIdQueue = []
+
 function addUserIdToQueue(file, userId) {
 	userIdQueue.push({userId: userId, filename: file.replace('.txt', '')});
-	if (userIdQueue.length >= 50) {
-		sendBatchUserRequest()
-	}
 }
 
 function sendBatchUserRequest() {
-	var batchOfUsers = userIdQueue.splice(0, 75);
+	var batchOfUsers = userIdQueue.splice(0, 90);
 
 	// object format
 	// {userId, filename}
@@ -92,4 +90,13 @@ function sendBatchUserRequest() {
 
 function onlyUnique(value, index, self) { 
     return self.indexOf(value) === index;
+}
+
+
+function processQueue() {
+	if (userIdQueue.length >= 80) {
+		console.log("Poping queue")
+		sendBatchUserRequest()
+		setTimeout(processQueue, 1*1000)
+	}
 }

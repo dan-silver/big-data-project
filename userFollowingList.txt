@@ -47,4 +47,3336 @@ CNN	Clarissa Ward
 CNN	Great Big Story
 CNN	Sam Schlinkert
 CNN	Pope Francis
+CNN	MJ LeeFox News	Steve King
+Fox News	Governor Mike Pence
+Fox News	Nikki Haley
+Fox News	Donald J. Trump
+Fox News	Tony Perkins
+Fox News	Rick Santorum
+Fox News	Dr. Mike Ghouse
+Fox News	John Bolton
+Fox News	Donald Rumsfeld
+Fox News	Frank Luntz
+Fox News	Dennis Kucinich
+Fox News	Allen West
+Fox News	Sen. Jeff Sessions
+Fox News	Louie Gohmert
+Fox News	Jon Huntsman
+Fox News	Star Parker
+Fox News	John Kasich
+Fox News	Joe Biden
+Fox News	Cory Booker
+Fox News	Arnold
+Fox News	Gov. Mike Huckabee
+Fox News	Jim DeMint
+Fox News	Speaker John Boehner
+Fox News	PublicPolicyPolling
+Fox News	Rasmussen Reports
+Fox News	DRUDGE REPORT
+Fox News	Benjamin Netanyahu
+Fox News	Veterans Affairs
+Fox News	Al Gore
+Fox News	People magazine
+Fox News	TIME.com
+Fox News	WIRED
+Fox News	Special Report Team
+Fox News	FOX News Radio
+Fox News	WSJ Personal Finance
+Fox News	WSJ U.S. News
+Fox News	Rick Reichmuth
+Fox News	Jeanine Pirro
+Fox News	Fox News Politics
+Fox News	James Rosen
+Fox News	Heather Childers
+Fox News	Neil Cavuto
+Fox News	Fox News Travel
+Fox News	John McCain
+Fox News	Fox Small Business
+Fox News	Anita Vogel
+Fox News	John Boehner
+Fox News	Juan Williams
+Fox News	Glenn Beck
+Fox News	Red Eye on Fox NewsReuters Top News	brian love
+Reuters Top News	Mike Dolan
+Reuters Top News	Pedro da Costa
+Reuters Top News	David Milliken
+Reuters Top News	jim impoco
+Reuters Top News	Checkpoint
+Reuters Top News	Reuters Photos
+Reuters Top News	Checkpoint News
+Reuters Top News	Web of Science
+Reuters Top News	Thomson Reuters
+Reuters Top News	Reuters Commodities
+Reuters Top News	Reuters Deutschland
+Reuters Top News	Thomson Reuters
+Reuters Top News	Thomson Reuters AU
+Reuters Top News	Multimedia Solutions
+Reuters Top News	Nasdaq
+Reuters Top News	Reuters Ag News
+Reuters Top News	Reuters Italia
+Reuters Top News	Ross Chainey
+Reuters Top News	Reuters India Photos
+Reuters Top News	Lucas Jackson
+Reuters Top News	corinne_perkins
+Reuters Top News	Jim Bourg
+Reuters Top News	Paul Tait
+Reuters Top News	Russell Boyce
+Reuters Top News	Kenneth Li
+Reuters Top News	Adrian Croft
+Reuters Top News	World Wanderer
+Reuters Top News	robert basler
+Reuters Top News	Reuters India
+Reuters Top News	Lucy Nicholson
+Reuters Top News	Eric Auchard
+Reuters Top News	SaraLedwith
+Reuters Top News	Jeremy Gaunt
+Reuters Top News	Jodie Ginsberg
+Reuters Top News	Tim Castle
+Reuters Top News	Stefano Ambrogi
+Reuters Top News	Reuters Insider
+Reuters Top News	Reuters Polls
+Reuters Top News	Jennifer Ablan
+Reuters Top News	Janet Guttsman
+Reuters Top News	Ben Hirschler
+Reuters Top News	bob tourtellotte
+Reuters Top News	Clare Baldwin
+Reuters Top News	Joe Giannone
+Reuters Top News	Julie Mollins
+Reuters Top News	Reuters Africa
+Reuters Top News	Reuters Tech News
+Reuters Top News	Thomson Reuters
+Reuters Top News	Franklin PaulReuters Top News	Andrew Hammond
+Reuters Top News	Ana da Costa
+Reuters Top News	Vincenzo Albano
+Reuters Top News	Fiona Ortiz
+Reuters Top News	Amy Feldman
+Reuters Top News	Simon Hanna
+Reuters Top News	Vidya 
+Reuters Top News	Tarmo Virki
+Reuters Top News	Marcel Michelson
+Reuters Top News	jennifer saba
+Reuters Top News	LilTweets
+Reuters Top News	Carole Vaporean
+Reuters Top News	Alina Selyukh
+Reuters Top News	Yolanda Ma 馬金馨
+Reuters Top News	Simon Akam
+Reuters Top News	Jason Reed
+Reuters Top News	Limei Hoang
+Reuters Top News	Lily Kuo
+Reuters Top News	Joseph Menn
+Reuters Top News	Umit Bektas
+Reuters Top News	Naomi O'Leary
+Reuters Top News	Carrick Mollenkamp
+Reuters Top News	Himanshu Ojha
+Reuters Top News	David J Fazekas
+Reuters Top News	Connor Boals
+Reuters Top News	Karolina Tagaris
+Reuters Top News	Danilo Masoni
+Reuters Top News	Stephen Jewkes
+Reuters Top News	Jennifer Clark
+Reuters Top News	Balaji Sridharan
+Reuters Top News	Nate Raymond
+Reuters Top News	Rodney Joyce
+Reuters Top News	Lou Carlozo
+Reuters Top News	Salimah Y. Ebrahim
+Reuters Top News	Raktim Hazarika
+Reuters Top News	Chris Francescani
+Reuters Top News	Andrew Binet
+Reuters Top News	Bloomberg TV
+Reuters Top News	Megan McCarthy
+Reuters Top News	Amy Tennery
+Reuters Top News	Kira Bindrim
+Reuters Top News	Clare Richardson
+Reuters Top News	Al Jazeera English
+Reuters Top News	Colin McDonald
+Reuters Top News	Vivian Ho
+Reuters Top News	Steve Kopack
+Reuters Top News	NASA Kennedy / KSC
+Reuters Top News	UN Web TV
+Reuters Top News	amanda sidman
+Reuters Top News	Andrew SpringerReuters Top News	Tom Heneghan
+Reuters Top News	Felix's Robot
+Reuters Top News	Tabassum Zakaria
+Reuters Top News	Susan Heavey
+Reuters Top News	Donna Smith
+Reuters Top News	Patricia Zengerle
+Reuters Top News	Reuters Sports
+Reuters Top News	Frank Pingue
+Reuters Top News	Reuters Health
+Reuters Top News	James Saft
+Reuters Top News	Bernd Debusmann
+Reuters Top News	Felix Salmon
+Reuters Top News	Reuters Pakistan
+Reuters Top News	Reuters Summits
+Reuters Top News	Reuters U.S. News
+Reuters Top News	Reuters Science News
+Reuters Top News	Reuters Business
+Reuters Top News	TR_Foundation News
+Reuters Top News	Reuters Politics
+Reuters Top News	Richard Baum
+Reuters Top News	Steve Holland
+Reuters Top News	Reuters Davos
+Reuters Top News	Reuters Deals
+Reuters Top News	Reuters Iran
+Reuters Top News	Reuters Live
+Reuters Top News	Reuters UK
+Reuters Top News	MacroScope
+Reuters Top News	David Schlesinger
+Reuters Top News	AndrewHeavens
+Reuters Top News	Reuters Pictures
+CNN Breaking News	Peter Hamby
+CNN Breaking News	Dylan Byers
+CNN Breaking News	Sara Pratley
+CNN Breaking News	Bernie Sanders
+CNN Breaking News	Robin Meade
+CNN Breaking News	Rosa Flores
+CNN Breaking News	St. Louis County PD
+CNN Breaking News	John Kerry
+CNN Breaking News	Ann O'Neill
+CNN Breaking News	Kensington Palace
+CNN Breaking News	Elise Labott
+CNN Breaking News	John Berman
+CNN Breaking News	Maureen Petrosky
+CNN Breaking News	Saeed Ahmed
+CNN Breaking News	Ram Ramgopal
+CNN Breaking News	Carl Lavin
+CNN Breaking News	Patrick Oppmann CNN
+CNN Breaking News	Kelly Hobson
+CNN Breaking News	Robert Yoon
+CNN Breaking News	Brian StelterCNN	CNN Airport Network
+CNN	Shimon Prokupecz
+CNN	Jen Pifer Bixler
+CNN	UnguardedCNN
+CNN	Nima Elbagir
+CNN	CNN Tonight
+CNN	John Walsh
+CNN	CNN Wire
+CNN	Tom Faust
+CNN	Sara Ganim
+CNN	Bill Weir
+CNN	Radina Gigova
+CNN	CNNMoney Breaking
+CNN	Melanie Hicken
+CNN	CNNMoney PF
+CNN	Will Ripley
+CNN	Sundance Productions
+CNN	Oliver Janney
+CNN	Kevin Bohn
+CNN	CNN Newsource
+CNN	CNN Special Report
+CNN	Claudia Morales
+CNN	CNN Leading Women
+CNN	Patricia Janiot
+CNN	Carlos Montero
+CNN	David Daniel
+CNN	CNN Original Series
+CNN	Team HLN
+CNN	Nischelle Turner
+CNN	Chelsea J. Carter
+CNN	Paul Callan
+CNN	EdithChapin
+CNN	Miles O'Brien
+CNN	@THISHOUR
+CNN	Stephanie Todd Haley
+CNN	Cam B
+CNN	Greg Asman
+CNN	Elwyn López
+CNN	Albie Hecht
+CNN	Sean Redlitz
+CNN	Jim Sciutto
+CNN	frates
+CNN	Jareen Imam
+CNN	Jacque Smith
+CNN	Rachel Rodriguez
+CNN	David Williams
+CNN	Alexandra Field
+CNN	Melonyce McAfee
+CNN	CNN Living
+CNN	Casey WianThe New York Times	NYT América
+The New York Times	Justin Gillis
+The New York Times	Maggie Haberman
+The New York Times	Wayne Kamidoi
+The New York Times	Emily Brennan
+The New York Times	joumana khatib
+The New York Times	Jessica Anderson
+The New York Times	Thomas Simonetti
+The New York Times	NYT Metro Desk 
+The New York Times	Nate Schweber
+The New York Times	Nicole Herrington
+The New York Times	Joe Coscarelli
+The New York Times	Francesca Barber
+The New York Times	Kinsey Wilson
+The New York Times	Michelle L. Dozois
+The New York Times	J.J. Helland
+The New York Times	Sam Manchester
+The New York Times	Amy Kellner
+The New York Times	Stacey Baker
+The New York Times	Jason Sfetko
+The New York Times	willy
+The New York Times	Luke Mitchell
+The New York Times	John Haskins
+The New York Times	Sasha Weiss
+The New York Times	Jean Rutter
+The New York Times	Taylor Adams
+The New York Times	Quynhanh Do
+The New York Times	jay caspian kang
+The New York Times	Jeannie Choi
+The New York Times	Arí Isaacman Astles
+The New York Times	Caryn A. Wilson
+The New York Times	Kerri MacDonald
+The New York Times	tannercurtis
+The New York Times	Eric Thayer
+The New York Times	Charles Homans
+The New York Times	Mike Abrams
+The New York Times	Ben Strauss
+The New York Times	Elisabeth Malkin
+The New York Times	Julia Simon
+The New York Times	Jill Agostino
+The New York Times	Kyle Massey
+The New York Times	Hannah Poferl
+The New York Times	Jonathan Soble
+The New York Times	Dan Gendler
+The New York Times	Zachary Woolfe
+The New York Times	Maria Russo
+The New York Times	Jason Zinoman
+The New York Times	Michael Dewar
+The New York Times	Justin Bank
+The New York Times	Sam KestenbaumReuters Top News	Agence France-Presse
+Reuters Top News	Sky News Newsdesk
+Reuters Top News	ABC News
+Reuters Top News	NBCWashington
+Reuters Top News	MSNBC
+Reuters Top News	#NBC7 San Diego
+Reuters Top News	NBC Chicago
+Reuters Top News	NBC News
+Reuters Top News	The White House
+Reuters Top News	The New York Times
+Reuters Top News	Los Angeles Times
+Reuters Top News	The Associated Press
+Reuters Top News	Breaking News UK
+Reuters Top News	Breaking News Storm
+Reuters Top News	Hadeel Al-Shalchi
+Reuters Top News	Joan Biskupic
+Reuters Top News	Reuters SEA
+Reuters Top News	Ioan Grillo
+Reuters Top News	carlo allegri
+Reuters Top News	David Lalmalsawma
+Reuters Top News	Simon Robinson
+Reuters Top News	Gayle Issa
+Reuters Top News	Benoit Tessier
+Reuters Top News	Nacho en la Luna
+Reuters Top News	Catherine Bremer
+Reuters Top News	Jeremy Wagstaff
+Reuters Top News	Kim Kyung-Hoon 
+Reuters Top News	Monica Vargas
+Reuters Top News	Patricia Velez
+Reuters Top News	Suzanne Barlyn
+Reuters Top News	Jennifer H Cummings
+Reuters Top News	Gerry Shih
+Reuters Top News	Phil Noble
+Reuters Top News	Luis Andres Henao
+Reuters Top News	Kristi Brecht
+Reuters Top News	Barclay Palmer
+Reuters Top News	Sahar Ahmed
+Reuters Top News	Brian Zimmerman
+Reuters Top News	Heather Struck
+Reuters Top News	John Irish
+Reuters Top News	Damir Sagolj
+Reuters Top News	Natalie Armstrong
+Reuters Top News	Yeganeh June Torbati
+Reuters Top News	sharon begley
+Reuters Top News	Carlyn Kolker
+Reuters Top News	Frank Jack Daniel
+Reuters Top News	Elias Biryabarema
+Reuters Top News	Christophe Gevrey
+Reuters Top News	Alwyn Scott
+Reuters Top News	Piya Sinha-RoyReuters Top News	Reuters EU 
+Reuters Top News	Bate Felix Tabi Tabe
+Reuters Top News	Krista Hughes
+Reuters Top News	TrustLaw Women
+Reuters Top News	TrottReuters
+Reuters Top News	Greg McCune
+Reuters Top News	Jason Szep
+Reuters Top News	appu
+Reuters Top News	HelenMassy-Beresford
+Reuters Top News	Lauren Tara LaCapra
+Reuters Top News	Stephanie Ditta
+Reuters Top News	Purwa Naveen Raman
+Reuters Top News	Jonathan Oatis
+Reuters Top News	Martin Howell
+Reuters Top News	Nasdaq
+Reuters Top News	mitchlipka
+Reuters Top News	Sudipto Ganguly
+Reuters Top News	John Whitesides
+Reuters Top News	Eileen Houlihan
+Reuters Top News	Cyntia Barrera Diaz
+Reuters Top News	Allan Dowd
+Reuters Top News	Walden Siew
+Reuters Top News	lisa baertlein
+Reuters Top News	Paul de Bendern
+Reuters Top News	Lars Paronen
+Reuters Top News	Scott DiSavino
+Reuters Top News	Ross Finley
+Reuters Top News	BrightonBN1
+Reuters Top News	Wei Gu
+Reuters Top News	Rachel Armstrong
+Reuters Top News	Emily Plucinak
+Reuters Top News	martinlangfield
+Reuters Top News	Rob Cox
+Reuters Top News	agnes crane
+Reuters Top News	Nadia Damouni
+Reuters Top News	John Mastrini
+Reuters Top News	Niki O'C
+Reuters Top News	Axel Threlfall
+Reuters Top News	Joe Rauch
+Reuters Top News	Rodrigo Campos
+Reuters Top News	Elinor Comlay
+Reuters Top News	Daniel Munoz
+Reuters Top News	Laurence Fletcher
+Reuters Top News	Andrew Biraj
+Reuters Top News	bernadette baum
+Reuters Top News	Baghdad Iraq
+Reuters Top News	mark jones
+Reuters Top News	Peter Griffiths
+Reuters Top News	Lisa Shumaker
+Reuters Top News	Eric BurroughsReuters Top News	Dylan Welch
+Reuters Top News	Reuters China 
+Reuters Top News	Al-Monitor
+Reuters Top News	Kate Seelye
+Reuters Top News	Ahmad Mukhtar
+Reuters Top News	Sam Stein
+Reuters Top News	The Atlantic
+Reuters Top News	Steve Clemons
+Reuters Top News	jeremy scahill
+Reuters Top News	The Nation
+Reuters Top News	ProPublica
+Reuters Top News	Guardian US
+Reuters Top News	Top 5 All Time Dad
+Reuters Top News	Glenn Greenwald
+Reuters Top News	Marty Baron
+Reuters Top News	David Adams
+Reuters Top News	Heidi N Moore
+Reuters Top News	CNN Breaking News
+Reuters Top News	Guardian news
+Reuters Top News	BBC Breaking News
+Reuters Top News	Geoffrey Fowler
+Reuters Top News	David Gelles
+Reuters Top News	Twitter
+Reuters Top News	NWS
+Reuters Top News	Todd Benson
+Reuters Top News	Tim McLaughlin
+Reuters Top News	Emily Flitter
+Reuters Top News	Sara Goldfarb
+Reuters Top News	DWB
+Reuters Top News	Cooper Hughes
+Reuters Top News	NewsBreaker
+Reuters Top News	sarahbrowngb
+Reuters Top News	Richard Blakeley
+Reuters Top News	Daily Mail US
+Reuters Top News	Suraj Balakrishnan
+Reuters Top News	Dagny Salas
+Reuters Top News	Evan Mackinder
+Reuters Top News	Gareth
+Reuters Top News	Ashley Rodriguez
+Reuters Top News	Kelly Chen
+Reuters Top News	Mila Sanina
+Reuters Top News	Joe Galvin
+Reuters Top News	Ryan Teague Beckwith
+Reuters Top News	Nick Cicero
+Reuters Top News	Sue Llewellyn
+Reuters Top News	Maayan Lubell
+Reuters Top News	Caren Bohan
+Reuters Top News	Matt Walker
+Reuters Top News	The Economist
+Reuters Top News	Kevin AllisonReuters Top News	Carsten Seibold
+Reuters Top News	Lin Noueihed
+Reuters Top News	Sonia Oxley
+Reuters Top News	Nidal al-Mughrabi
+Reuters Top News	Crispian Balmer
+Reuters Top News	Ayesha Rascoe
+Reuters Top News	annadriver
+Reuters Top News	Jan Paschal
+Reuters Top News	Jonathan Weber
+Reuters Top News	Daniel Dickson
+Reuters Top News	Neil Maidment
+Reuters Top News	Jan Strupczewski
+Reuters Top News	Paul Taylor
+Reuters Top News	john manley
+Reuters Top News	Anna Yukhananov
+Reuters Top News	Frederik Joelving
+Reuters Top News	Paul Casciato
+Reuters Top News	David Clarke
+Reuters Top News	Steve Slater
+Reuters Top News	Sarah White
+Reuters Top News	Kylie MacLellan
+Reuters Top News	avril ormsby
+Reuters Top News	ReutersDublin
+Reuters Top News	Edward Hadas
+Reuters Top News	Nita Bhalla
+Reuters Top News	Katya Wachtel
+Reuters Top News	Lauren Marie Eames
+Reuters Top News	elsabutler
+Reuters Top News	Maria Golovnina
+Reuters Top News	Julien Prétot
+Reuters Top News	Thomas Breach
+Reuters Top News	Bill Riordan
+Reuters Top News	Margaret Hanlon
+Reuters Top News	Jen McClure at JEM
+Reuters Top News	George Hay
+Reuters Top News	Muhanad Mohammed
+Reuters Top News	Stephanie Nebehay
+Reuters Top News	Poornima Gupta
+Reuters Top News	Sarah G McBride
+Reuters Top News	Tim Gaynor
+Reuters Top News	Mihir Dalal
+Reuters Top News	Kate Holton
+Reuters Top News	Megha Mandavia
+Reuters Top News	Gopakumar Warrier
+Reuters Top News	abhiram nandakumar
+Reuters Top News	Himank Sharma
+Reuters Top News	Vidya L Nathan
+Reuters Top News	Rania El Gamal
+Reuters Top News	Stephen Grey
+Reuters Top News	Live Video 24/7CNN Breaking News	Jim Sciutto
+CNN Breaking News	Faith M. Karimi
+CNN Breaking News	Shimon Prokupecz
+CNN Breaking News	Evan Pérez
+CNN Breaking News	Ana Cabrera
+CNN Breaking News	Don Lemon
+CNN Breaking News	afantz
+CNN Breaking News	CNN Football Club
+CNN Breaking News	Marlena Baldacci
+CNN Breaking News	Brooke Baldwin
+CNN Breaking News	Dan Merica
+CNN Breaking News	The Lead CNN
+CNN Breaking News	Mariano Castillo
+CNN Breaking News	Christi Paul
+CNN Breaking News	Kyra Phillips
+CNN Breaking News	Sara Sidner
+CNN Breaking News	Eliott C. McLaughlin
+CNN Breaking News	Robyn Curnow
+CNN Breaking News	Christiane Amanpour
+CNN Breaking News	Dan Rivers
+CNN Breaking News	Barbara Starr
+CNN Breaking News	Hassan Rouhani
+CNN Breaking News	Nick Paton Walsh
+CNN Breaking News	Bleacher Report
+CNN Breaking News	UN Spokesperson
+CNN Breaking News	Team HLN
+CNN Breaking News	Michaela Pereira
+CNN Breaking News	New Day
+CNN Breaking News	Christopher C. Cuomo
+CNN Breaking News	HLN
+CNN Breaking News	Eric Marrapodi
+CNN Breaking News	CNN Opinion
+CNN Breaking News	Arwa Damon
+CNN Breaking News	CNN Religion
+CNN Breaking News	Poppy Harlow
+CNN Breaking News	Meredith Artley
+CNN Breaking News	Brianna Keilar
+CNN Breaking News	joparker
+CNN Breaking News	Leslie Bentz
+CNN Breaking News	CNN Geek Out!
+CNN Breaking News	Jim Acosta
+CNN Breaking News	Kate Bolduan
+CNN Breaking News	joe johns
+CNN Breaking News	Jessica Yellin
+CNN Breaking News	Ivan Watson
+CNN Breaking News	Wolf Blitzer
+CNN Breaking News	Karen Maginnis
+CNN Breaking News	CNN Light Years
+CNN Breaking News	CNN Health
+CNN Breaking News	Matt Sloane Reuters Top News	Sam Cage
+Reuters Top News	Alexia Singh
+Reuters Top News	Jaime Saldarriaga
+Reuters Top News	Brenda Goh
+Reuters Top News	Andrew Caballero
+Reuters Top News	Denis Balibouse
+Reuters Top News	Mari Saito
+Reuters Top News	Bob Schukai
+Reuters Top News	Tiziana Barghini
+Reuters Top News	alister doyle
+Reuters Top News	Angeline Ong
+Reuters Top News	Susan Taylor
+Reuters Top News	Tomas Sarmiento
+Reuters Top News	Margaret Chadbourn
+Reuters Top News	_rm_nd_ c_s_r
+Reuters Top News	cesar illiano
+Reuters Top News	Dave Clarke
+Reuters Top News	Tom Ablewhite
+Reuters Top News	Michael Stott
+Reuters Top News	Sarah Edmonds
+Reuters Top News	Matt Cowan
+Reuters Top News	Tom Gilbert
+Reuters Top News	Alastair Macdonald
+Reuters Top News	David Morgan
+Reuters Top News	Paul Hoskins
+Reuters Top News	Benjamin Beavan
+Reuters Top News	Missy Ryan
+Reuters Top News	Rob W
+Reuters Top News	Emma Pinkerton
+Reuters Top News	Jane Barrett
+Reuters Top News	Julian Satterthwaite
+Reuters Top News	Nigel Hilditch
+Reuters Top News	Richard Muller
+Reuters Top News	Rose Wyatt (Hamada)
+Reuters Top News	Richard Hubbard
+Reuters Top News	Jaime Punishill
+Reuters Top News	tim kelly
+Reuters Top News	Fred Katayama
+Reuters Top News	david sincock
+Reuters Top News	Aaron Pressman
+Reuters Top News	Emily Stephenson
+Reuters Top News	Nicole Mordant
+Reuters Top News	Alex Leo
+Reuters Top News	Chris Allbritton
+Reuters Top News	Sonya Dowsett
+Reuters Top News	Amy Pollock
+Reuters Top News	Jason Lange
+Reuters Top News	Sebastian Shepard
+Reuters Top News	Emma Farge
+Reuters Top News	Corrie MacLagganReuters Top News	Jasmin Melvin Hudson
+Reuters Top News	Frank Tantillo
+Reuters Top News	Anthony Boadle
+Reuters Top News	Deborah Charles
+Reuters Top News	dzabarenko
+Reuters Top News	joanne allen
+Reuters Top News	Matt Spetalnick
+Reuters Top News	Jane Sutton
+Reuters Top News	Doug Palmer
+Reuters Top News	Serena Chaudhry
+Reuters Top News	Blaise Robinson
+Reuters Top News	sinead carew
+Reuters Top News	Devidutta Tripathy
+Reuters Top News	Michael Taylor
+Reuters Top News	Humeyra Pamuk
+Reuters Top News	Sujata Rao
+Reuters Top News	Michael Caronna
+Reuters Top News	Vivek Prakash
+Reuters Top News	Kevin Coombs
+Reuters Top News	Neil Maidment
+Reuters Top News	Randy Fabi
+Reuters Top News	John Tilak
+Reuters Top News	Jim Finkle
+Reuters Top News	Yinka Adegoke
+Reuters Top News	Paul Thomasch
+Reuters Top News	Natsuko Waki
+Reuters Top News	Tom Kirkwood
+Reuters Top News	Sitaraman Shankar
+Reuters Top News	Huw Jones
+Reuters Top News	Hugh Bronstein
+Reuters Top News	Brad Haynes
+Reuters Top News	Douwe Miedema
+Reuters Top News	Lorraine Turner
+Reuters Top News	Peter Apps
+Reuters Top News	carolyn cohn
+Reuters Top News	lindastern
+Reuters Top News	Simon James Gardner
+Reuters Top News	Sebastian Tong
+Reuters Top News	Alastair Sharp
+Reuters Top News	Westlaw
+Reuters Top News	Christine Kearney
+Reuters Top News	Michelle Nichols
+Reuters Top News	stella dawson 
+Reuters Top News	GWGenergy
+Reuters Top News	PR Team at Reuters 
+Reuters Top News	Greg Beitchman
+Reuters Top News	Karnov Group
+Reuters Top News	Kate Kelland
+Reuters Top News	Joel Dimmock
+Reuters Top News	ReutersBreakingviewsCNN	Leigh Spann
+CNN	Indra Petersons
+CNN	jon adler
+CNN	The Flag
+CNN	Jessica Moskowitz
+CNN	Saima Mohsin
+CNN	Carl Azuz
+CNN	Andrew Morse
+CNN	Crossfire
+CNN	Evan Pérez
+CNN	David P Gelles
+CNN	CNNFilms
+CNN	David Chalian
+CNN	Gabriel Kinder
+CNN	Ana Cabrera
+CNN	Ted Winner
+CNN	amy entelis
+CNN	Zach Wolf
+CNN	Sunlen Serfaty
+CNN	Lisa Greene
+CNN	Vanessa Juarez
+CNN	Rene Marsh
+CNN	PaulaNewtonCNN
+CNN	Stephanie Cutter
+CNN	Newt Gingrich
+CNN	Van Jones
+CNN	S.E. Cupp
+CNN	Inside Man
+CNN	Shana CNN
+CNN	David M Reisner
+CNN	Rosa Flores
+CNN	Elizabeth Stuart
+CNN	Kelly Wallace
+CNN	Stroumboulopoulos
+CNN	MelissaKondak
+CNN	Michaela Pereira
+CNN	Ronni Berke
+CNN	Vivian Kuo
+CNN	John Griffin
+CNN	Stephanie Elam
+CNN	Lindsay Perna
+CNN	Lex Haris
+CNN	New Day
+CNN	Daniel Burke
+CNN	Kerry O'Connor-Aouad
+CNN	Kari Pricher
+CNN	Gabe Ramirez
+CNN	Brian Carberry
+CNN	Peter Bale
+CNN	Blake EllisThe New York Times	agustin armendariz
+The New York Times	Daniel Fromson
+The New York Times	Christina Caron
+The New York Times	katie rosman
+The New York Times	Stacy China
+The New York Times	Kenneth Chang
+The New York Times	Amy Qin
+The New York Times	Kellen Henry
+The New York Times	Manny Fernandez
+The New York Times	David Philipps
+The New York Times	Herbert Buchsbaum
+The New York Times	Alex Thompson
+The New York Times	Ruth Fremson
+The New York Times	ben protess
+The New York Times	Karin Roberts
+The New York Times	Patrick J. Lyons
+The New York Times	Christoph Fuhrmans
+The New York Times	Mary Jo Murphy
+The New York Times	Ceylan Yeginsu
+The New York Times	Joe Nocera
+The New York Times	Bill Wasik
+The New York Times	Steven McElroy
+The New York Times	Alexandra Alter
+The New York Times	David Furst
+The New York Times	Ken Belson
+The New York Times	ಠ_ಠ
+The New York Times	jaysylva
+The New York Times	Conor Dougherty
+The New York Times	Andrew E. Kramer
+The New York Times	Ian Trontz
+The New York Times	NYT Now
+The New York Times	Margot Sanger-Katz
+The New York Times	Emily Steel
+The New York Times	Kim Barker
+The New York Times	Richard Fausset
+The New York Times	Dan Levin
+The New York Times	marc tracy
+The New York Times	Neil Gough
+The New York Times	Brent Staples
+The New York Times	Anthony Tommasini
+The New York Times	Jeremy Bowers
+The New York Times	Karen Workman
+The New York Times	Matt Twomey
+The New York Times	Janet Piorko
+The New York Times	Kathleen A. Flynn
+The New York Times	sean alfano
+The New York Times	Douglas Alteen
+The New York Times	Megan Thee-Brenan
+The New York Times	Julie Davis
+The New York Times	Alexandra JacobsThe New York Times	Katie Rogers
+The New York Times	Alan Rappeport
+The New York Times	Dionne Searcey
+The New York Times	Jake Silverstein
+The New York Times	Bruce Levine 
+The New York Times	Alicia Parlapiano
+The New York Times	William J. Broad
+The New York Times	Rɪᴄᴋ Rᴏᴊᴀs
+The New York Times	Vanessa Friedman
+The New York Times	Anna North
+The New York Times	Peter Catapano
+The New York Times	Jaime Swanson
+The New York Times	Adeel Hassan
+The New York Times	Andrew Keh
+The New York Times	Rochelle Oliver
+The New York Times	Rukmini Callimachi
+The New York Times	Josh Barro
+The New York Times	Matt Chaban
+The New York Times	Eldes Tran
+The New York Times	Josh Katz
+The New York Times	Samantha Stark
+The New York Times	Alan Blinder
+The New York Times	Mike Forsythe  傅才德
+The New York Times	Smith
+The New York Times	Matthew Schneier
+The New York Times	Glenn Collins
+The New York Times	Eric Lipton
+The New York Times	Russell Goldman
+The New York Times	Royal
+The New York Times	Sebnem Arsu
+The New York Times	Austin Ramzy
+The New York Times	Nate Chinen
+The New York Times	@Grievance
+The New York Times	Jessica Lustig
+The New York Times	Jill Rayfield
+The New York Times	jde
+The New York Times	Priya O. Wellington
+The New York Times	Joe Hart
+The New York Times	Brian D. Murphy
+The New York Times	sobia
+The New York Times	anh-thư huỳnh
+The New York Times	Deep Kapadia
+The New York Times	Justin Kestler
+The New York Times	Jessica Kosturko
+The New York Times	mlouttit
+The New York Times	Véronique Brossier
+The New York Times	torbennyc
+The New York Times	chrisladd
+The New York Times	Alex Hardiman
+The New York Times	Mark Paul KeefeCNN	Mari Ramos
+CNN	Hala Gorani
+CNN	Sonya Houston
+CNN	zain verjee 
+CNN	Peter Hamby
+CNN	Carolyn Sung
+CNN	Mark McKay
+CNN	@patrickcnn
+CNN	CNN Sport
+CNN	Meryl Conant
+CNN	Megan Grant
+CNN	Tom Foreman
+CNN	VideoNews
+CNN	Connect the World 
+CNN	CNN Screening Room
+CNN	Wolf Blitzer
+CNN	Kevin Flower
+CNN	Candy Crowley
+CNN	CNN Scoop
+CNN	Alexander Mooney
+CNN	Jack Gray
+CNN	International Desk
+CNN	Josh Rubin
+CNN	Sam Feist
+CNN	CNN Politics
+CNN	CNNLatino In America
+CNN	elizabeth cohen
+CNN	Kyra Phillips
+CNN	CNN Weather Center
+CNN	CNN Heroes
+CNN	Fareed Zakaria
+CNN	Christine Romans
+CNN	Jim Acosta
+CNN	Suzanne Malveaux
+CNN	CNN World
+CNN	Eliott C. McLaughlin
+CNN	CNN NationalSecurity
+CNN	Mark Preston
+CNN	State of the Union
+CNN	TheCNNWire
+CNN	CNNgo
+CNN	Black In America
+CNN	Soledad O'Brien
+CNN	Larry King
+CNN	Dr. Sanjay Gupta
+CNN	Richard Quest
+CNN	Don Lemon
+CNN	Anderson Cooper
+CNN	Jack Cafferty
+CNN	CNNMoneyThe New York Times	James Gorman
+The New York Times	Karen Barrow
+The New York Times	jack healy
+The New York Times	Jonathan Weisman
+The New York Times	Sid Acker
+The New York Times	Marie Tessier
+The New York Times	Allen Tan
+The New York Times	Victoria Shannon
+The New York Times	Steven Reddicliffe
+The New York Times	Peter Khoury
+The New York Times	James McKinley Jr
+The New York Times	Scott Shane
+The New York Times	Tom Sims
+The New York Times	Joe Ward
+The New York Times	Vivian Yee
+The New York Times	David Brooks
+The New York Times	Andrew Das
+The New York Times	Tim Rohan
+The New York Times	Margaret Sullivan
+The New York Times	Des Shoe
+The New York Times	John Williams
+The New York Times	Norimitsu Onishi
+The New York Times	Erica Goode
+The New York Times	Eric Schmitt
+The New York Times	James Thomas
+The New York Times	Andrew Jacobs
+The New York Times	Ian Johnson
+The New York Times	Philip P. Pan
+The New York Times	Jonathan Ansfield
+The New York Times	Andrea Kannapell 
+The New York Times	Andrew Zahler
+The New York Times	The Ethicist
+The New York Times	Susanna Timmons
+The New York Times	Parul Sehgal
+The New York Times	Daniel Victor
+The New York Times	Julia Preston
+The New York Times	NYT Graphics
+The New York Times	Tom Giratikanon
+The New York Times	Hannah Fairfield
+The New York Times	Devan Sipher
+The New York Times	Peter Baker
+The New York Times	Alan Schwarz
+The New York Times	Jon Kelly
+The New York Times	Shreeya Sinha
+The New York Times	Paul Sullivan
+The New York Times	Suleika Jaouad
+The New York Times	Margaret Ho
+The New York Times	Marc Lavallee
+The New York Times	Jane Karr
+The New York Times	Ben FrenchFox News	MyFoxBoston
+Fox News	Charles Krauthammer
+Fox News	Christina Scotti
+Fox News	Tucker Carlson
+Fox News	Melissa Francis
+Fox News	Varney & Co. 
+Fox News	Charles Brady
+Fox News	elisabeth hasselbeck
+Fox News	Gretchen Carlson
+Fox News	CalThomas
+Fox News	Fox Business Alert
+Fox News	Bill Schulz
+Fox News	WikiLeaks
+Fox News	Glenn Greenwald
+Fox News	Doug McKelway
+Fox News	Jamie Dettmer
+Fox News	Fin Gomez
+Fox News	Governor Mary Fallin
+Fox News	Doug Schoen
+Fox News	Lisa Daftari
+Fox News	Benjamin Weinthal
+Fox News	Matthew Rocco
+Fox News	Tamara Holder
+Fox News	Allison Barrie
+Fox News	Fox News Poll
+Fox News	Anne Bayefsky
+Fox News	The Associated Press
+Fox News	USGS
+Fox News	Boston Herald
+Fox News	The Boston Globe
+Fox News	Cheryl Fiandaca
+Fox News	Mary Quinn O'Connor
+Fox News	Fox Files
+Fox News	The Denver Post
+Fox News	Judith Miller
+Fox News	Dunstan Prial
+Fox News	Peter Barnes
+Fox News	Chad Pergram
+Fox News	Sarah Courtney
+Fox News	Martin Finn
+Fox News	Kara Rowland
+Fox News	Mike Majchrowitz
+Fox News	Sib Kaifee
+Fox News	Michelle Macaluso
+Fox News	The First Lady
+Fox News	Justin Fishel
+Fox News	Andrew O'Reilly
+Fox News	alex vros
+Fox News	Erik Berte
+Fox News	Ainsley EarhardtCNN	CNN Political Ticker
+CNN	CNN Newsroom
+CNN	CNN iReport
+CNN	CNN International
+CNN	CNN Breaking News
+The New York Times	Twitter Moments
+The New York Times	James Poniewozik
+The New York Times	Lindsey Underwood
+The New York Times	Michael Gold
+The New York Times	Tim Race
+The New York Times	NYT Investors
+The New York Times	Nicholas St. Fleur
+The New York Times	matthew mitchell
+The New York Times	Michael Benoist
+The New York Times	gregwinterNYT
+The New York Times	Meredith Levien
+The New York Times	Mike McIntire
+The New York Times	Ryan McCarthy
+The New York Times	Mikayla Bouchard
+The New York Times	Andrew Chow
+The New York Times	Nikole Hannah-Jones
+The New York Times	Linda Zebian
+The New York Times	Todd Gregory
+The New York Times	Jazmine Hughes
+The New York Times	Nicola Clark
+The New York Times	Steve Mayne
+The New York Times	tatiana schlossberg
+The New York Times	Bill McDonald
+The New York Times	Tom Wright-Piersanti
+The New York Times	Anya Strzemien
+The New York Times	Manu Joseph
+The New York Times	Laurie Kawakami
+The New York Times	Carla Correa
+The New York Times	Pui-Wing Tam
+The New York Times	Noam Scheiber
+The New York Times	Jim Windolf
+The New York Times	Francesca Donner
+The New York Times	Jada
+The New York Times	Michael R. Gordon
+The New York Times	Patrick Boehler 包蟠睿
+The New York Times	stephanie saul
+The New York Times	Gilbert Cruz
+The New York Times	Samarth Bhaskar
+The New York Times	billy witz
+The New York Times	Rachel Dry
+The New York Times	Julia Ioffe
+The New York Times	Hannah Olivennes
+The New York Times	Alex Burns
+The New York Times	Darcy Eveleigh
+The New York Times	Landon Thomas Jr.CNN	Devon M. Sayers
+CNN	Lynn Lamanivong
+CNN	Michael Senzon
+CNN	Eden Pontz
+CNN	Parisa Khosravi
+CNN	ericacnn
+CNN	HLNGood
+CNN	Larry Smith
+CNN	Elise Miller
+CNN	Ravi
+CNN	Eric Weisbrod
+CNN	Mariano Castillo
+CNN	Faith M. Karimi
+CNN	kate lazarus
+CNN	carey bodenheimer
+CNN	Jason Reid
+CNN	HLN
+CNN	Kim Norgaard
+CNN	Chris_Dawson
+CNN	Juan Andres Muñoz
+CNN	Ted  Rowlands
+CNN	Maigh
+CNN	Abby Snauwaert
+CNN	Jessica Jordan
+CNN	Kelly Daniel
+CNN	Grayson
+CNN	Joel Brown
+CNN	Gena Somra
+CNN	carol kinstle
+CNN	KateGiles
+CNN	erinmclaughlin
+CNN	Jeff Kepnes
+CNN	Kawain McClarin
+CNN	Joe McCurdy
+CNN	Lauren Cone
+CNN	CNN Germany
+CNN	CNN West / Midwest
+CNN	Edie Emery
+CNN	CNNNortheastDesk
+CNN	Nigel Pritchard
+CNN	Judson Jones
+CNN	CNN Asia Pacific
+CNN	Carolina Lopez
+CNN	Justin Armsden
+CNN	Nathan Berrong
+CNN	nkepile mabuse
+CNN	Tess Eastment
+CNN	Assignment Desk
+CNN	anna coren
+CNN	Nicole SaidiCNN	Digg
+CNN	Vine
+CNN	Shasta Darlington
+CNN	Nina dos Santos
+CNN	CNN-IBN News
+CNN	Derek Schoen
+CNN	Anna M. Gonzalez
+CNN	Anika Chin
+CNN	George Bush
+CNN	Brian Stelter
+CNN	Deborah Doft
+CNN	Chris Berend
+CNN	Tom Hanks
+CNN	The Seventies
+CNN	Nesta Lumpkin
+CNN	David Waterfall
+CNN	Bleacher Report
+CNN	Blackfish
+CNN	Ryan Sloane
+CNN	AnneClaire Stapleton
+CNN	Magic Recs
+CNN	Amy La Porte CNN
+CNN	debdaly
+CNN	Ashley Strickland
+CNN	NBA on TNT
+CNN	Zagat
+CNN	Delta
+CNN	US Airways
+CNN	Dave Ramsey
+CNN	The Washington Times
+CNN	SportsLine
+CNN	Bob Glauber
+CNN	Tom Pelissero
+CNN	Ross Tucker
+CNN	Mark Long
+CNN	Dan Hellie
+CNN	Andrew Brandt
+CNN	Jarrett Bell
+CNN	Jon Zimmer
+CNN	Rich Eisen
+CNN	Twitter Media
+CNN	Marc Watts
+CNN	Shaun O'Hara
+CNN	Twitter Sports
+CNN	Tim Tebow
+CNN	LisaWeseman
+CNN	Don Shula
+CNN	Scott Isaacs
+CNN	XFINITY Sports
+CNN	Aaron RodgersCNN	Kevin Conlon
+CNN	Erin
+CNN	Catherine Kim
+CNN	Mallory Simon
+CNN	chris dos santos
+CNN	Bryan Monroe
+CNN	Adam P. Levy
+CNN	Follow @CNNTRACSNews
+CNN	Trisha Henry Gaffney
+CNN	Stan Wilson
+CNN	Paul Begala
+CNN	Ari Fleischer
+CNN	Ben Tinker
+CNN	Patricia DiCarlo
+CNN	Will Cain
+CNN	Jason Kurtz
+CNN	Randi Kaye
+CNN	Martin Savidge
+CNN	Rick DiBella
+CNN	ruben navarrette jr
+CNN	Shannon Travis
+CNN	Matt Dornic
+CNN	CNN Light Years
+CNN	Sean Houston
+CNN	TurnerSportsPR
+CNN	Alex Castellanos
+CNN	Rachel Streitfeld
+CNN	Christina Ginn
+CNN	Early Start
+CNN	Ashleigh Banfield
+CNN	Kate Bolduan
+CNN	Jen Bernstein Adams
+CNN	Bart Feder
+CNN	David Frum
+CNN	David Goldman
+CNN	Stacy Cowley
+CNN	CNN Photos
+CNN	CNN Opinion
+CNN	jomana karadsheh
+CNN	Gavin Godfrey
+CNN	zoraida sambolin
+CNN	CNNSchools
+CNN	Vaughn Sterling
+CNN	Alison Kosik
+CNN	CNNTheNextList
+CNN	Wilson Surratt
+CNN	CNN Offbeat
+CNN	Ryan Smith
+CNN	Sarita Harilela
+CNN	Michelle JaconiThe New York Times	NYT Digital Design
+The New York Times	Jill Taylor
+The New York Times	Dave Renard
+The New York Times	Jacqueline Baylon
+The New York Times	Jane Perlez
+The New York Times	Christopher Drew
+The New York Times	Ian Austen
+The New York Times	Wilson Andrews
+The New York Times	Rachel C. Abrams
+The New York Times	Danielle Ivory
+The New York Times	Coral Davenport
+The New York Times	Jonah Kessel
+The New York Times	Matthew Goldstein
+The New York Times	Alicia DeSantis
+The New York Times	jennifer daniel
+The New York Times	Reyna Desai
+The New York Times	Paula Span
+The New York Times	Celia W. Dugger
+The New York Times	Matt Seaton
+The New York Times	rebecca howard
+The New York Times	Alexandra Garcia
+The New York Times	Jason Horowitz
+The New York Times	William Grimes
+The New York Times	Salman Masood
+The New York Times	Alastair Coote
+The New York Times	Aviva Michaelov
+The New York Times	Kari
+The New York Times	Susan Ellingwood
+The New York Times	Clay Risen
+The New York Times	Natalie Shutler
+The New York Times	Mira Kamdar
+The New York Times	Scott Cacciola
+The New York Times	David Moll
+The New York Times	Gerry Doyle
+The New York Times	Philip McClellan
+The New York Times	Mark Oppenheimer
+The New York Times	Larry Buchanan
+The New York Times	Whitney Richardson
+The New York Times	Tim Wallace
+The New York Times	NYTimes Mag Photo
+The New York Times	Chris Stanford
+The New York Times	Nathaniel Popper
+The New York Times	Maggie Astor
+The New York Times	Rumsey Taylor
+The New York Times	Chrys Wu
+The New York Times	Steven Lee Myers
+The New York Times	Anne Barnard
+The New York Times	Alainna Lexie Beddie
+The New York Times	Malina Gilchrist
+The New York Times	Jennifer A. KingsonCNN	Erica Puntel
+CNN	Poppy Harlow
+CNN	Ben Brumfield CNN
+CNN	Amy Sahba
+CNN	Jane Velez-Mitchell
+CNN	Chris Welch
+CNN	Maria
+CNN	Andrew Torgan
+CNN	Dan Simon
+CNN	Matt Sloane 
+CNN	Tonju Francois 
+CNN	sgallman
+CNN	Audrey Irvine
+CNN	Danielle Gallagher
+CNN	Emily Minner
+CNN	Melissa Morgenweck
+CNN	rebecca angel baer
+CNN	Anna Rhett Miller
+CNN	RRaad
+CNN	Agency Byrnes
+CNN	Syreeta Clarke
+CNN	AllThingsCNN
+CNN	Brian Vitagliano
+CNN	Samira Jafari
+CNN	Alysen Miller
+CNN	Veronika Weiss
+CNN	Shirley Henry
+CNN	Sonia Blanco
+CNN	Alta S.
+CNN	Alyssa Caplan
+CNN	Scott Spoerry
+CNN	Greg Agvent
+CNN	Armie Jarin-Bennett
+CNN	Brianna Keilar
+CNN	Bridget Leininger
+CNN	Anna Lanfreschi
+CNN	Ravi Hiranand
+CNN	Azadeh Ansari
+CNN	Sara McDonald
+CNN	Sandra Endo
+CNN	CNNJanet 
+CNN	Jackie Damico
+CNN	Greg Morrison
+CNN	Katie Hawkins-Gaar
+CNN	Wayne Drash
+CNN	CNN Radio
+CNN	Chuck 
+CNN	Kara Devlin
+CNN	TomGoldstone
+CNN	Henry HanksReuters Top News	Saqib I Ahmed
+Reuters Top News	CNN
+Reuters Top News	BBC News (UK)
+Reuters Top News	CSPAN
+Reuters Top News	Digg
+Reuters Top News	CBS Evening News
+Reuters Top News	Jenna Sakwa
+Reuters Top News	AllThingsD
+Reuters Top News	Alonis
+Reuters Top News	KIRO 7
+Reuters Top News	Liz Heron
+Reuters Top News	Elana Zak
+Reuters Top News	Andrew M. Seaman
+Reuters Top News	Chris Taylor
+Reuters Top News	Ben Walsh
+Reuters Top News	Jessica Toonkel
+Reuters Top News	Stephanie Haberman
+Reuters Top News	Alex Fitzpatrick
+Reuters Top News	Breaking News
+Reuters Top News	Jeff Weiner
+Reuters Top News	Aspen Ideas Festival
+Reuters Top News	What Matters Now
+Reuters Top News	KQED News
+Reuters Top News	William Lafi Youmans
+Reuters Top News	Pete Williams
+Reuters Top News	Andrew Lampard
+Reuters Top News	Melissa Andersen
+Reuters Top News	PBS NewsHour
+Reuters Top News	The Associated Press
+Reuters Top News	CBS News
+Reuters Top News	BBC News (World)
+Reuters Top News	Sky News
+Reuters Top News	The Guardian 
+Reuters Top News	Joseph Weisenthal
+Reuters Top News	Wall Street Journal
+Reuters Top News	Chicago Tribune
+Reuters Top News	Bloomberg Business
+Reuters Top News	Alex Ogle
+Reuters Top News	Neal Mann
+Reuters Top News	Washington Post
+Reuters Top News	Yahoo News
+Reuters Top News	National Journal
+Reuters Top News	Ethan Klapper
+Reuters Top News	steve keating
+Reuters Top News	Erica Anderson
+Reuters Top News	Reuters World
+Reuters Top News	Nicholas Vinocur
+Reuters Top News	joshturk
+Reuters Top News	RT
+Reuters Top News	Steve StecklowReuters Top News	Martin Schmidt-Bleek
+Reuters Top News	Sai Ramesh Bhatt
+Reuters Top News	Anshuman Daga
+Reuters Top News	Alistair Scrutton
+Reuters Top News	Barry Malone
+Reuters Top News	georgina prodhan
+Reuters Top News	Anurag Kotoky
+Reuters Top News	ReutersAerospaceNews
+Reuters Top News	yvonne bell
+Reuters Top News	Reuters Jp Tech
+Reuters Top News	ロイター　エンタメ
+Reuters Top News	ロイター.co.jp
+Reuters Top News	Jeffrey Heller
+Reuters Top News	Ayat Basma
+Reuters Top News	Stephen J. Adler
+Reuters Top News	James Powell
+Reuters Top News	Claudia Parsons
+Reuters Top News	Dan Williams
+Reuters Top News	Lisa Jucca
+Reuters Top News	BEN GRUBER 
+Reuters Top News	Harqs Singh
+Reuters Top News	Pablo Garibian
+Reuters Top News	Ann Saphir
+Reuters Top News	Antonella Ciancio
+Reuters Top News	Deals Intelligence
+Reuters Top News	Steve Clarke
+Reuters Top News	Mark Felsenthal
+Reuters Top News	Brian Snyder
+Reuters Top News	Liana B. Baker
+Reuters Top News	Bob Burgdorfer
+Reuters Top News	Deborah L. Cohen
+Reuters Top News	Nichola Groom
+Reuters Top News	Mark
+Reuters Top News	Jessica Wohl
+Reuters Top News	Dhanya Skariachan
+Reuters Top News	Ben Klayman
+Reuters Top News	Brad Dorfman
+Reuters Top News	Phil Wahba
+Reuters Top News	chrisplumb
+Reuters Top News	Vincent Baby
+Reuters Top News	Ivan Oransky
+Reuters Top News	Darren Ennis
+Reuters Top News	Simon Evans
+Reuters Top News	Robert MacMillan
+Reuters Top News	Lauren Young
+Reuters Top News	william schomberg
+Reuters Top News	Reuters Money
+Reuters Top News	Randall Palmer
+Reuters Top News	sanjeevmiglani
+Reuters Top News	Camila ReedReuters Top News	Dan Colarusso
+Reuters Top News	Ora
+Reuters Top News	Danish Siddiqui
+Reuters Top News	Lucy P. Marcus
+Reuters Top News	John Shiffman
+Reuters Top News	Jason Tomassini
+Reuters Top News	Mahmoud Habboush
+Reuters Top News	Jessica Leibrock
+Reuters Top News	Peroshni Govender
+Reuters Top News	Adam Cohen
+Reuters Top News	Charlie Davis
+Reuters Top News	Ryan Wagner
+Reuters Top News	Xin Rex LIU@Reuters
+Reuters Top News	Choonsik Yoo
+Reuters Top News	Dan Wallis
+Reuters Top News	Thomson Reuters NZ
+Reuters Top News	Legal Current
+Reuters Top News	atthakorn
+Reuters Top News	Sam Youngman
+Reuters Top News	Thomson Reuters GRC
+Reuters Top News	Alpha Now
+Reuters Top News	Tom Peter
+Reuters Top News	Catherine Hornby
+Reuters Top News	Chadwick Matlin
+Reuters Top News	Alexander Smith
+Reuters Top News	Grace Kiser
+Reuters Top News	William James
+Reuters Top News	Maurice Tamman
+Reuters Top News	Alexander Cohen
+Reuters Top News	David Ingram
+Reuters Top News	Mary Slosson
+Reuters Top News	Bobbi Rebell
+Reuters Top News	Dan Whitcomb
+Reuters Top News	Zorianna Kit
+Reuters Top News	Lindsay Claiborn
+Reuters Top News	Tom Pilcher
+Reuters Top News	martynherman
+Reuters Top News	tony jimenez
+Reuters Top News	Matthew Robinson
+Reuters Top News	Michel Rose
+Reuters Top News	Tony Munroe
+Reuters Top News	Martin Petty
+Reuters Top News	Mark Kolmar
+Reuters Top News	Matthew Goldstein
+Reuters Top News	bill tarrant
+Reuters Top News	Allyn Fisher-Ilan
+Reuters Top News	chris borowski
+Reuters Top News	Nick Hencher
+Reuters Top News	Drazen Jorgic
+Reuters Top News	Jean-FrancoisThe New York Times	Aurélien Breeden
+The New York Times	Didi Kirsten Tatlow
+The New York Times	Sheri Fink
+The New York Times	Monica Almeida
+The New York Times	Liriel Higa
+The New York Times	Tamar E. Adler
+The New York Times	Axel Gerdau
+The New York Times	Alison Smale
+The New York Times	Roger van der Horst
+The New York Times	Michiko Kakutani
+The New York Times	Alan Wong
+The New York Times	Nina Bernstein
+The New York Times	Gregory Schmidt
+The New York Times	penelope green
+The New York Times	Paul Mozur
+The New York Times	Jeffrey Marcus
+The New York Times	Jesse Wegman
+The New York Times	Emily Bazelon
+The New York Times	Mitch Smith
+The New York Times	PJ Joshi
+The New York Times	Terry Tang 
+The New York Times	Mike Hale
+The New York Times	Joe Kahn
+The New York Times	Rod Nordland
+The New York Times	gregor aisch
+The New York Times	Derek Watkins
+The New York Times	Jeffrey Furticella
+The New York Times	alex maccallum
+The New York Times	Jessica Dimson
+The New York Times	Stephanie Goodman
+The New York Times	Rachel Abady
+The New York Times	Jon Galinsky
+The New York Times	NYT Archives
+The New York Times	Jim Luttrell
+The New York Times	Mat Yurow
+The New York Times	Christopher Mele
+The New York Times	Benedict Carey
+The New York Times	Chad Bray
+The New York Times	mona el-naggar
+The New York Times	Kenneth Rosen
+The New York Times	chris wiggins
+The New York Times	Theodore Kim
+The New York Times	Valeriya Safronova
+The New York Times	Ernesto Londoño
+The New York Times	julieturkewitz
+The New York Times	Leo
+The New York Times	Sydney Ember
+The New York Times	Haeyoun Park
+The New York Times	Jason Drakeford
+The New York Times	KAREEMCNN	Derek Van Nostran
+CNN	Matt Hoye 
+CNN	Rachel
+CNN	Jeanne Sahadi
+CNN	Joe Sutton
+CNN	Deena Sami
+CNN	Cindy Y. Rodriguez
+CNN	Beverly German
+CNN	Jamie Maglietta
+CNN	Laura Bernardini
+CNN	Sunny Hostin
+CNN	A.J. Hammer
+CNN	Flora Zhang
+CNN	Maribel Aber
+CNN	Sonya Hamasaki CNN
+CNN	Katie Baratone
+CNN	Jackie Castillo
+CNN	CNN en Español - PR
+CNN	Elizabeth Joseph
+CNN	Maggie Lake
+CNN	Steven Jiang
+CNN	Alan Duke
+CNN	CNN Geek Out!
+CNN	Mark Johnson
+CNN	Jason Morris
+CNN	Elissa Weldon
+CNN	Jamie Gray
+CNN	Miguel Susana
+CNN	Leslie Tucker Miller
+CNN	Michael Schulder
+CNN	Matthew Gannon
+CNN	Ana Navarro
+CNN	callie carmichael
+CNN	Leslie Bentz
+CNN	Marlena Baldacci
+CNN	Brad Rhoads
+CNN	Alan Silverleib
+CNN	Tasha Diakides
+CNN	MargaretHoover
+CNN	rosearce
+CNN	Morgan Spurlock
+CNN	Julie Zann
+CNN	Fahiemah Al-Ali
+CNN	Jarrett Bellini
+CNN	Pam Benson
+CNN	Elizabeth Landau
+CNN	Robert Yoon
+CNN	Adam Noboa
+CNN	Victor Blackwell CNN
+CNN	marisagallagherThe New York Times	Connor Ennis
+The New York Times	Jacky Myint
+The New York Times	Stephanie Yera
+The New York Times	Gerry Mullany
+The New York Times	Judy Tong
+The New York Times	Peter Sigal
+The New York Times	Matt Boggie
+The New York Times	Michael Kimmelman
+The New York Times	Somini Sengupta
+The New York Times	Erik Hinton
+The New York Times	Catherine SaintLouis
+The New York Times	Michael Schwirtz
+The New York Times	Sam Dolnick
+The New York Times	David Jolly
+The New York Times	Stephanie Strom
+The New York Times	Lillie Dremeaux
+The New York Times	Rick Lyman
+The New York Times	Binyamin Appelbaum
+The New York Times	Jim Yardley
+The New York Times	Neha Thirani Bagri
+The New York Times	Rebecca R. Ruiz
+The New York Times	Josh Haner
+The New York Times	Josh Williams
+The New York Times	Jon Huang
+The New York Times	Hilary Howard
+The New York Times	William C. Rhoden
+The New York Times	Roger Cohen
+The New York Times	Rachel Swarns
+The New York Times	Trip Gabriel
+The New York Times	Sia Michel
+The New York Times	Jeremy Egner
+The New York Times	Saibal Patra
+The New York Times	Justin Swanson
+The New York Times	Robert Gebeloff
+The New York Times	Talya Minsberg 
+The New York Times	Eric Schorr
+The New York Times	Aimee Harris
+The New York Times	Kate Taylor
+The New York Times	Mosi Secret
+The New York Times	Patrick Farrell
+The New York Times	Dean Baquet
+The New York Times	Katharine Q. Seelye
+The New York Times	Alan Feuer
+The New York Times	Elisabeth Bumiller
+The New York Times	Mark Landler
+The New York Times	Alex Williams
+The New York Times	Peter Ng
+The New York Times	Mireya Navarro
+The New York Times	Alessandra Stanley
+The New York Times	Neil GenzlingerCNN	Christopher Moloney
+CNN	Richard Davis
+CNN	Gilbert De La Rosa
+CNN	shimrit sheetrit
+CNN	Heather M. Higgins
+CNN	Kristyn Martin
+CNN	elise zeiger
+CNN	Nina Raja
+CNN	Andrea Apuy
+CNN	Kristina Sorge
+CNN	Rachel Burstein
+CNN	Andrea Beaumont Lewi
+CNN	Haleigh Raff
+CNN	Molly Lister
+CNN	Maria Spinella
+CNN	Melanie Lefkowitz
+CNN	winniedunbar
+CNN	Geoff Doner
+CNN	Elisabeth Brubaker
+CNN	Kathryn McQuade
+CNN	Chandra Whitt
+CNN	Kirk McDonald
+CNN	David Puente
+CNN	Anne C 
+CNN	pennymanis
+CNN	Leah
+CNN	Eli Lazar
+CNN	Jenny Blanco 
+CNN	Christelle Koumoué
+CNN	Jake Carpenter
+CNN	Ryan Lizza
+CNN	stephanie kotuby
+CNN	Max Foster
+CNN	Evening Express
+CNN	Lindy Hall
+CNN	John Berman
+CNN	Anthony Bourdain
+CNN	susan grant
+CNN	Kerry Rubin
+CNN	Carl Lavin
+CNN	Jason Morrell
+CNN	Bryan Bell
+CNN	George K. Howell
+CNN	Tim Lister
+CNN	Shanon Cook
+CNN	CNN Your Money
+CNN	CNN Your Bottom Line
+CNN	Nora Zimmett
+CNN	Troy Bentley
+CNN	Eric HallFox News	Nicole Kwan
+Fox News	Kimberly Schwandt
+Fox News	Hollie
+Fox News	Chris Stirewalt
+Fox News	Josh Marshall
+Fox News	Matt Finn Fox News
+Fox News	Keith Ablow, M.D.
+Fox News	Garrett Tenney
+Fox News	Kyle Rothenberg
+Fox News	kelly wright
+Fox News	Adam Shaw
+Fox News	Elizabeth MacDonald
+Fox News	FOX 29
+Fox News	Lauren Ashburn
+Fox News	Fox News Reporting
+Fox News	The FAA
+Fox News	Kathleen Sebelius
+Fox News	Paul Ryan
+Fox News	Senator Dick Durbin
+Fox News	Sasha Bogursky
+Fox News	America's Newsroom
+Fox News	A Healthy You
+Fox News	Ben Evansky
+Fox News	America's News HQ
+Fox News	Eben Brown (Fox)
+Fox News	James P. Pinkerton
+Fox News	Julie Roginsky
+Fox News	Scott P. Brown
+Fox News	Fox & Friends First
+Fox News	Jo Ling Kent
+Fox News	HowardKurtz
+Fox News	Claudia Cowan
+Fox News	Victoria Craig
+Fox News	Media Buzz
+Fox News	Dr. Rand Paul
+Fox News	Maxim Lott
+Fox News	Senator Ted Cruz
+Fox News	Jonathan Hunt
+Fox News	JaredHalpern
+Fox News	Jesse Watters
+Fox News	OldMarriedDull
+Fox News	Fox 9
+Fox News	FOX26Houston
+Fox News	FOX 5 DC
+Fox News	Fox5NY
+Fox News	Fox 35 News
+Fox News	FOX 13 Tampa Bay
+Fox News	Stephen Hayes
+Fox News	FOX2now
+Fox News	FOX ProvidenceCNN	CNN Data
+CNN	CNN Today
+CNN	Susanna Capelouto
+CNN	Sara Weisfeldt
+CNN	Dominique Dodley
+CNN	Jeff Simon
+CNN	lorenzo ferrigno
+CNN	Chris Turner
+CNN	Ken Tuohey
+CNN	Chris Moody
+CNN	Frankie Ballard
+CNN	Big Kenny Alphin
+CNN	John Rich
+CNN	Café CNN
+CNN	Luis Gerardo Bucci
+CNN	Lara Baldesarra
+CNN	Sonia Moghe
+CNN	Emily Kuhn
+CNN	Jeremy Moorhead
+CNN	Floyd Yarmuth
+CNN	Christina Zdanowicz
+CNN	Mick Krever
+CNN	Ann O'Neill
+CNN	Paul Vercammen
+CNN	gregg canes
+CNN	Stuart Clark
+CNN	The Nobel Prize
+CNN	Jo Shelley
+CNN	Pilgrim Studios
+CNN	Leposo Lillian
+CNN	Brent Swails
+CNN	The Daily Share
+CNN	Diego Laje
+CNN	Wilfred Chan
+CNN	Sophia Yan 嚴倩君
+CNN	Andrew Stevens
+CNN	JohnBonifieldCNN
+CNN	Jay Carney
+CNN	CNNi Video
+CNN	Lee Smith
+CNN	The Real Mike Rowe
+CNN	lisaling
+CNN	ShaneDeitertCNN
+CNN	Peter Lattman
+CNN	Alisyn Camerota
+CNN	Frank Pallotta
+CNN	Mike Ahlers
+CNN	marnie hunter
+CNN	Isa Soares
+CNN	LZ GrandersonFox News	Fox Nation
+Fox News	New York Post
+Fox News	Josh Earnest
+Fox News	George Russell
+Fox News	Gabrielle Giffords
+Fox News	Ellen DeGeneres
+Fox News	United Nations
+Fox News	Barack Obama
+Fox News	Oliver North
+Fox News	Jack
+Fox News	Casey Stegall
+Fox News	John Roberts
+Fox News	Leland Vittert
+Fox News	Gary Sinise
+Fox News	Kimberly Guilfoyle
+Fox News	Trace Gallagher
+Fox News	Rebecca Diamond
+Fox News	Julie Banderas
+Fox News	Alicia Acuna
+Fox News	Tom Sullivan
+Fox News	John Stossel
+Fox News	tracy byrnes
+Fox News	Gerri Willis
+Fox News	Jenna Lee
+Fox News	martha maccallum
+Fox News	Charles V Payne
+Fox News	Adam Shapiro
+Fox News	Charles Gasparino
+Fox News	Reuters Top News
+Fox News	Jason Goldman
+Fox News	Geraldo Rivera
+Fox News	American Red Cross
+Fox News	Dana Perino
+Fox News	Tamer El-Ghobashy
+Fox News	Fox Business Video
+Fox News	laura ingle
+Fox News	Fox News Careers
+Fox News	HarrisFaulkner
+Fox News	Lis Wiehl
+Fox News	Kirsten Powers
+Fox News	Mike Tobin
+Fox News	Shannon Bream
+Fox News	Alan Colmes
+Fox News	Judge Napolitano 
+Fox News	Connell McShane
+Fox News	Liz Claman
+Fox News	Cheryl Casone
+Fox News	Eric Bolling
+Fox News	Dagen McDowell
+Fox News	Janice DeanFox News	FoxNews.com Live
+Fox News	Wall Street Journal
+Fox News	Department of State
+Fox News	SEC_News
+Fox News	The FCC
+Fox News	CBP
+Fox News	Homeland Security
+Fox News	Fox News Leisure
+Fox News	Fox News Video
+Fox News	Megyn Kelly
+Fox News	Bill O'Reilly
+Fox News	FOX Business
+Fox News	Fox News Latino
+Fox News	America Live
+Fox News	Happening Now
+Fox News	Shepard Smith
+Fox News	Fox News Opinion
+Fox News	JP
+Fox News	WhiteHousePressCorps
+Fox News	Fox Car Report
+Fox News	FOX411
+Fox News	FoxNews.com SciTech
+Fox News	andy levy
+Fox News	Clayton Morris
+Fox News	Karl Rove
+Fox News	RickLeventhalFoxNews
+Fox News	GregGutfeld
+Fox News	Sarah Palin
+Fox News	Steve Doocy
+Fox News	Peter Johnson Jr.
+Fox News	Dr. Manny Alvarez
+Fox News	Adam Housley
+Fox News	UNICEF
+Fox News	The White House
+Fox News	CARE (care.org)
+Fox News	Sean Hannity
+Fox News	Scott Heidler
+Fox News	FOX & Friends
+Fox News	Bret Baier
+Fox News	Fox News Alert
+Fox News	Greta Van Susteren
+Reuters Top News	Kay Johnson
+Reuters Top News	Julia Love
+Reuters Top News	Philip Pullella
+Reuters Top News	Molly Stark Dean
+Reuters Top News	Reuters TV
+Reuters Top News	Zachary Goelman
+Reuters Top News	Tim Cook
+Reuters Top News	Bill Gates
+Reuters Top News	Warren BuffettCNN	Meghan Krakauer
+CNN	OutFrontCNN
+CNN	Erin Burnett
+CNN	Gustavo
+CNN	Julian Cummings CNN
+CNN	joe johns
+CNN	John Murgatroyd
+CNN	eric fiegel
+CNN	Michael Humphrey
+CNN	Rich Phillips
+CNN	chad myers
+CNN	Athena Jones
+CNN	Fredricka Whitfield
+CNN	Troy Bentley
+CNN	scotsafon
+CNN	The Situation Room
+CNN	Royal Wedding CNN
+CNN	Nancy Grace
+CNN	Dr. Drew
+CNN	KC Estenson
+CNN	CNN Video
+CNN	CNNTech Gadgets
+CNN	CNN Freedom Project
+CNN	CNN @ SXSW
+CNN	Dr Drew
+CNN	CNNInterviews
+CNN	David Gergen
+CNN	CNN Challenge
+CNN	Anderson Cooper 360°
+CNN	iReport Project
+CNN	Phil Han
+CNN	John Zarrella
+CNN	Piers Morgan Live
+CNN	elisa berkowitz
+CNN	Gabriella Schwarz
+CNN	CNN Student News
+CNN	Scott Zamost
+CNN	CNN Travel
+CNN	Jonathan Wald
+CNN	Diane Ruggiero
+CNN	Andreas Preuss
+CNN	CNN Ballot Bowl 
+CNN	Jennifer Hanks 
+CNN	Rosalina Nieves
+CNN	John Defterios
+CNN	CNN en Español
+CNN	CNN Chile
+CNN	careyb
+CNN	Kathryn Tancos
+CNN	Caitlin HaganCNN	RickMartinMEDIA
+CNN	Hank Bishop
+CNN	MayraCuevas
+CNN	Steve Brusk
+CNN	Scott T.
+CNN	Saeed Ahmed
+CNN	zarifmo
+CNN	Wayne Gray
+CNN	Melissa Gray
+CNN	Nick Valencia
+CNN	Nic Robertson
+CNN	ralitsa vassileva
+CNN	John Couwels CNN
+CNN	JEN DELGADO Weather
+CNN	Rosemary Church
+CNN	embracelife 
+CNN	Josh Levs
+CNN	Don Riddell
+CNN	Eileen Hsieh 謝雅琳
+CNN	Michael Holmes
+CNN	Guillermo ARDUINO
+CNN	Asieh Namdar
+CNN	Atika Shubert
+CNN	Jenny Harrison
+CNN	Boriana M. Treadwell
+CNN	Pauline Chiou
+CNN	john vause
+CNN	Atia Abawi
+CNN	David McKenzie
+CNN	Jill Dougherty
+CNN	Elise Labott
+CNN	Erin McLaughlin
+CNN	Talia Kayali
+CNN	waffamn
+CNN	Alex Thomas
+CNN	Kim Newsome
+CNN	ric ward
+CNN	Lisa Respers France
+CNN	Reza Sayah
+CNN	Grace Bohnhoff
+CNN	Tricia Escobedo
+CNN	RAGreeneCNN
+CNN	Ayesha Durgahee
+CNN	toriblaseCNN
+CNN	cnninthefield
+CNN	Richard T. Griffiths
+CNN	Vickie Russell
+CNN	Lila King
+CNN	Suzanne Kelly
+CNN	cnn_esReuters Top News	The Baltimore Sun
+Reuters Top News	kavita chandran
+Reuters Top News	erin mccann
+Reuters Top News	Jack Stubbs
+Reuters Top News	Yusra Askari
+Reuters Top News	richard lough
+Reuters Top News	AmnestyInternational
+Reuters Top News	Samantha Power
+Reuters Top News	IranTalks
+Reuters Top News	Phillip Smyth
+Reuters Top News	Michael Weiss
+Reuters Top News	African Union
+Reuters Top News	World Food Programme
+Reuters Top News	UN Development
+Reuters Top News	WUSA9
+Reuters Top News	Alister Bull
+Reuters Top News	Al Jazeera America
+Reuters Top News	Tom Perry
+Reuters Top News	Maggie Fick
+Reuters Top News	Adam Smith
+Reuters Top News	Justice Department
+Reuters Top News	UN Peacekeeping
+Reuters Top News	UN Refugee Agency
+Reuters Top News	UN Spokesperson
+Reuters Top News	Robert Mackey
+Reuters Top News	Anup Kaphle
+Reuters Top News	Jim Urquhart
+Reuters Top News	Hoda Emam
+Reuters Top News	Nomaan Merchant
+Reuters Top News	Lisa Maria Garza
+Reuters Top News	West Wing Reports
+Reuters Top News	Michael van Poppel
+Reuters Top News	NBC Nightly News
+Reuters Top News	Circa
+Reuters Top News	Parisa Hafezi
+Reuters Top News	Mirwais Harooni
+Reuters Top News	CPJ
+Reuters Top News	Ayla Jean Yackley
+Reuters Top News	Alex Christie-Miller
+Reuters Top News	ilhan tanir
+Reuters Top News	Mahir Zeynalov
+Reuters Top News	Emre Peker
+Reuters Top News	Breaking Politics
+Reuters Top News	Vineet Sharma
+Reuters Top News	Michael Williams
+Reuters Top News	Marcus George
+Reuters Top News	Silvio Cascione
+Reuters Top News	Tim Pool
+Reuters Top News	U.S. Embassy Kabul
+Reuters Top News	Ewen MacAskillCNN	Khalil Abdallah
+CNN	MikeGalanosHLN
+CNN	Bleacher Report NFL
+CNN	Snapchat
+CNN	Rod Griola
+CNN	Ryan Nobles
+CNN	Connor Boals
+CNN	Ken Tillis
+CNN	Julia Talanova 
+CNN	Kristen
+CNN	Aaron Cooper
+CNN	Chris Boyette
+CNN	Tony Umrani
+CNN	Cristina Alesci
+CNN	Skip Nocciolo
+CNN	Andi Babineau
+CNN	Anna Stewart
+CNN	Paul Cruickshank
+CNN	Brenna Williams
+CNN	Steven Sloan
+CNN	Jedd Rosche
+CNN	Terence Burlij
+CNN	Wade Payson-Denney
+CNN	Laura Perez Maestro
+CNN	Victoria Eastwood
+CNN	Niki Cook
+CNN	Bryony Jones
+CNN	Dianna Heitz
+CNN	Mark Barilla
+CNN	Sayoni Aiyar
+CNN	Simply Measured
+CNN	Barbie Latza Nadeau
+CNN	David Molko
+CNN	JFK Library
+CNN	Eisenhower Library
+CNN	US National Archives
+CNN	Lawrence Crook
+CNN	Maeve Reston
+CNN	Kevin Liptak
+CNN	Rebekah Metzler
+CNN	Nefi Alarcon
+CNN	Patrick Cornell
+CNN	Jesse Solomon
+CNN	T a l
+CNN	Tom Sater
+CNN	Jennifer Rizzo
+CNN	Derek Van Dam
+CNN	David Shortell
+CNN	Ray Sanchez
+CNN	Ashley CodianniThe New York Times	Christoph Niemann
+The New York Times	Alexis Lloyd
+The New York Times	Elisabeth Goodridge
+The New York Times	Susan Edgerley
+The New York Times	john leland
+The New York Times	Mark O'Callaghan
+The New York Times	Erik Eckholm
+The New York Times	Justin Sablich
+The New York Times	Eric Asimov
+The New York Times	Tom Kuntz
+The New York Times	Sylvia Rupani-Smith
+The New York Times	David Sanger
+The New York Times	Eric Lichtblau-NYT
+The New York Times	Jackie Calmes
+The New York Times	Tara Siegel Bernard
+The New York Times	Claire Cain Miller
+The New York Times	Danielle Mattoon 
+The New York Times	monicadrake
+The New York Times	Guy Trebay
+The New York Times	Ben Shpigel
+The New York Times	Michael S. Schmidt
+The New York Times	Richard Sandomir
+The New York Times	John Branch
+The New York Times	Harvey Araton
+The New York Times	Gina Kolata
+The New York Times	Henry Fountain
+The New York Times	Peter Blair
+The New York Times	matt richtel
+The New York Times	Brooks Barnes
+The New York Times	Mary Ann Giordano
+The New York Times	Wendell Jamieson
+The New York Times	Richard Perez-Pena
+The New York Times	Sharon Otterman
+The New York Times	Randy Archibold
+The New York Times	Abby Goodnough
+The New York Times	Monica Davey
+The New York Times	jennifer steinhauer
+The New York Times	Clifford Levy
+The New York Times	Snigdha Koirala
+The New York Times	Michael Cooper
+The New York Times	Jim Dao
+The New York Times	David M. Herszenhorn
+The New York Times	Adam Liptak
+The New York Times	Sarah Lyall
+The New York Times	Jodi Rudoren
+The New York Times	Elliott Malkin
+The New York Times	David Gonzalez
+The New York Times	Clint Fisher
+The New York Times	Kim Severson
+The New York Times	Andrew KuenemanCNN	Reliable Sources
+CNN	Chuck Hadad
+CNN	Jess Conner
+CNN	Elizabeth Cherneff
+CNN	Hardy Spire
+CNN	Marcela Salazar
+CNN	Dan Merica
+CNN	Jeffrey Toobin
+CNN	CNN's Gut Check
+CNN	PeterBale
+CNN	Brandon Griggs
+CNN	Bonnie Schneider
+CNN	Jess D.
+CNN	Michael Martinez
+CNN	Meryl Page
+CNN	Alina Cho
+CNN	Hanna
+CNN	Edward Meagher
+CNN	Omar Butcher
+CNN	Miguel Marquez
+CNN	Christiane Amanpour
+CNN	Bob Hand
+CNN	Jessica Reinis
+CNN	Meredith Milstein
+CNN	Susie Xu
+CNN	Alicia
+CNN	Neel Khairzada
+CNN	John Avlon
+CNN	Eric Marrapodi
+CNN	Jay McMichaelCNN
+CNN	Tenisha Taylor Bell
+CNN	Cubie King
+CNN	James McGinnis
+CNN	Deborah Feyerick
+CNN	Natalie Allen
+CNN	Elisa
+CNN	Leinz Vales
+CNN	Andrew Haag
+CNN	Javier de Diego
+CNN	linda roth
+CNN	Melanie Buck Parks
+CNN	Jen Buesinger Sperry
+CNN	Jessica King
+CNN	Stefanie Jewett
+CNN	Janelle Griffin
+CNN	Craig Scholz
+CNN	Peter Morris
+CNN	Erica Fink
+CNN	Paul Devitt
+CNN	Stephanie MikulichCNN	Ivan Cabrera
+CNN	Leone Lakhani
+CNN	Charles Hodson CNN
+CNN	Al Goodman
+CNN	Frederik Pleitgen
+CNN	Sara Sidner
+CNN	Dan Rivers
+CNN	Christian Purefoy
+CNN	Sohn Jie-Ae
+CNN	CNN Africa
+CNN	Colleen
+CNN	benwedeman
+CNN	Matthew Chance
+CNN	Stan Grant
+CNN	Arwa Damon
+CNN	Chris Lawrence
+CNN	Ivan Watson
+CNN	Errol Barnett
+CNN	Paul Steinhauser
+CNN	Esprit Smith
+CNN	Drew Griffin CNN
+CNN	John King
+CNN	Jessica Yellin
+CNN	CNN Türk
+CNN	Suhasini Haidar
+CNN	Kyung Lah
+CNN	John D. Sutter
+CNN	CNN Public Relations
+CNN	CNN PollBot
+CNN	Jennifer Smith
+CNN	iReport for CNN
+CNN	Victor Hernandez
+CNN	Ram Ramgopal
+CNN	Joe Sterling
+CNN	Stacia Deshishku
+CNN	Kristie Lu Stout CNN
+CNN	Roger Clark
+CNN	Alden
+CNN	Mohammed Jamjoom
+CNN	Justin Lear
+CNN	Deb Traynor McKeever
+CNN	Christine Theodorou
+CNN	Patrick Oppmann CNN
+CNN	Issue1cnn
+CNN	Gene Bloch
+CNN	Amanda Watts
+CNN	MichaelHeard
+CNN	Kelvin Davis
+CNN	cstrandCNN
+CNN	Melanie WhitleyCNN	Paul Armstrong
+CNN	Claudia Coles
+CNN	Valerie Payne
+CNN	Manav Tanneeru
+CNN	Jim Bittermann
+CNN	Michelle Rozsa
+CNN	Geoff Hill
+CNN	Schams Elwazer
+CNN	Becky Brittain
+CNN	Jamie Crawford
+CNN	Shawna Shepherd
+CNN	emily schultze
+CNN	Mary Anne Fox
+CNN	Adriana Hauser
+CNN	Nicky Robertson
+CNN	Jack Hannah
+CNN	Mariana Pinango
+CNN	Lateef Mungin
+CNN	CNN Health
+CNN	CNN EdgeofDiscovery
+CNN	Carol Costello
+CNN	Allan Chernoff
+CNN	Monita Rajpal
+CNN	CNN Open Court
+CNN	Ed Payne
+CNN	Lesa Jansen
+CNN	Pete Dominick
+CNN	What The Week
+CNN	Team CNN
+CNN	In The Arena
+CNN	Kay Jones
+CNN	Jeanne Meserve
+CNN	Ismael Estrada
+CNN	Jerry Simonson
+CNN	Robin Meade
+CNN	Cristy Lenz
+CNN	Ryan Jimenez
+CNN	Maria Ebrahimji
+CNN	CNN Religion
+CNN	sikinoski sama
+CNN	PowerZ
+CNN	CNN Multimedia
+CNN	Janelle Rodriguez
+CNN	ReynoldsWolfTWC
+CNN	Jim Boulden
+CNN	UK Election CNN
+CNN	Eatocracy
+CNN	CNN Southeast Desk
+CNN	lucy spiegel
+CNN	John King, USAThe New York Times	Ginia Bellafante
+The New York Times	Amy Chozick
+The New York Times	Nick Wingfield
+The New York Times	Liz Robbins
+The New York Times	Sam Borden
+The New York Times	New York Times Live
+The New York Times	Sergio Peçanha
+The New York Times	Rob Harris
+The New York Times	Laura
+The New York Times	Samantha Henig
+The New York Times	donofrio
+The New York Times	NYT Obituaries
+The New York Times	Jeff Gordinier
+The New York Times	John Eligon
+The New York Times	adam nagourney
+The New York Times	beta620
+The New York Times	Rajiv Pant 潘睿哲 राजीव
+The New York Times	Dick Stevenson
+The New York Times	PJ Fontillas
+The New York Times	Daniel E. Slotnik
+The New York Times	James Connell
+The New York Times	Martin Fackler
+The New York Times	Rogene
+The New York Times	Doug Mills
+The New York Times	Barbara Gray
+The New York Times	Kitty Bennett
+The New York Times	Dan Barry
+The New York Times	bruce weber
+The New York Times	NYTimesWordplay
+The New York Times	Elaine Sciolino
+The New York Times	Ben C. Solomon
+The New York Times	Pamela Paul
+The New York Times	Diane Cardwell
+The New York Times	Jonathan Mahler
+The New York Times	Neil MacFarquhar
+The New York Times	lynsey addario
+The New York Times	Kevin Sack
+The New York Times	New York Times India
+The New York Times	William Neuman
+The New York Times	Michael Wilson
+The New York Times	Jeremy Ashkenas
+The New York Times	Elias Lopez
+The New York Times	Danny Hakim
+The New York Times	Bill Horn
+The New York Times	Liam Stack
+The New York Times	Adam Bryant
+The New York Times	Christopher Clarey
+The New York Times	Bryan Denton
+The New York Times	Susan Dominus
+The New York Times	NY Times TweetbotReuters Top News	Michael Georgy
+Reuters Top News	Henry Foy
+Reuters Top News	Clement Tan 陈永强
+Reuters Top News	Rick King
+Reuters Top News	Peter Thal Larsen
+Reuters Top News	Eva Taylor
+Reuters Top News	Westlaw Corporate
+Reuters Top News	Nicholas Creswell
+Reuters Top News	Keith Weir
+Reuters Top News	Mark Lamport-Stokes
+Reuters Top News	Jean Yoon
+Reuters Top News	Alan Baldwin
+Reuters Top News	Louise Egan
+Reuters Top News	SouthPoleExpedition
+Reuters Top News	Jeff Jones
+Reuters Top News	beawiharta
+Reuters Top News	AxisMundi
+Reuters Top News	Kristina Cooke
+Reuters Top News	Emily Kaiser
+Reuters Top News	Jerry Lampen
+Reuters Top News	louis charbonneau
+Reuters Top News	melanielee
+Reuters Top News	Deepa Seetharaman
+Reuters Top News	Reuters Auto Team
+Reuters Top News	Ernest Scheyder
+Reuters Top News	Vivek Prakash
+Reuters Top News	Rob Dawson
+Reuters Top News	Don Pessin
+Reuters Top News	Mariana Bazo  
+Reuters Top News	Toe Knee
+Reuters Top News	Kevin Krolicki
+Reuters Top News	Petar Kujundzic 
+Reuters Top News	Desmond Boylan
+Reuters Top News	Adrees Latif
+Reuters Top News	Angela Moon
+Reuters Top News	reinhard krause
+Reuters Top News	Rickey Rogers
+Reuters Top News	Yannis Behrakis
+Reuters Top News	Yves Herman
+Reuters Top News	Pierre Briançon
+Reuters Top News	Karen Brettell
+Reuters Top News	Dan Wilchins
+Reuters Top News	Finbarr O'Reilly
+Reuters Top News	Bazuki Muhammad
+Reuters Top News	Jassim Ahmad
+Reuters Top News	Tim Wimborne
+Reuters Top News	Anooja Debnath
+Reuters Top News	David Gaffen
+Reuters Top News	David Alexander
+Reuters Top News	andrewquinnFox News	Andrea Tantaros
+Fox News	Jeff Misenti
+Fox News	Carolyn Salazar
+Fox News	perry chiaramonte
+Fox News	Jennifer Griffin
+Fox News	Dana Blanton
+Fox News	Elizabeth Llorente
+Fox News	Bryan Llenas
+Fox News	Francisco Cortes
+Fox News	Laura Ingraham
+Fox News	Edmund DeMarche
+Fox News	Cristina Corbin
+Fox News	Joshua Rhett Miller
+Fox News	After the Bell
+Fox News	WARRIOR RIDE 2012
+Fox News	Ron Ralston
+Fox News	Monica Crowley
+Fox News	Ashley Dvorkin
+Fox News	Lauren Simonetti
+Fox News	KT McFarland
+Fox News	Ann Romney
+Fox News	Dr. Rick Knabb
+Fox News	FLSERT Information
+Fox News	Hurricane Central
+Fox News	Paul Ryan
+Fox News	Rich Edson
+Fox News	Greg Palkot
+Fox News	Fox News Jr Reporter
+Fox News	Peter Doocy
+Fox News	KDVR FOX31 Denver
+Fox News	Sunday Housecall
+Fox News	Anna Kooiman
+Fox News	Brit Hume
+Fox News	Political Insiders
+Fox News	Eric Shawn
+Fox News	Debra Murphy
+Fox News	FoxNewsPhotos
+Fox News	Bill Hemmer
+Fox News	Lou Dobbs
+Fox News	Fox News uReport
+Fox News	Jonah Goldberg
+Fox News	Shira Bush
+Fox News	Faith Mangan
+Fox News	Nicole Busch
+Fox News	Joy Lin
+Fox News	Nick Kalman
+Fox News	FOX 11 Los Angeles
+Fox News	Jana Winter
+Fox News	Twitter Media
+Fox News	Michelle ObamaCNN	Adam Aigner-Treworgy
+CNN	Dr.Stroumboulopoulos
+CNN	Emma Lacey-Bordeaux
+CNN	(Get To) The Point
+CNN	Michaela Pereira
+CNN	Rich Barbieri
+CNN	Jamie Gumbrecht
+CNN	Emanuella Grinberg
+CNN	Mira Lowe
+CNN	Thom Patterson
+CNN	Todd Leopold
+CNN	Annalyn Kurtz
+CNN	Steve Hargreaves
+CNN	Kat Kinsman
+CNN	Deena Zeina Zaru
+CNN	Parts Unknown
+CNN	Alina Machado
+CNN	Emily Jane Fox
+CNN	Octavio Blanco
+CNN	Dana Davidsen
+CNN	Elizabeth Chmurak
+CNN	Cassie Spodak
+CNN	Sherisse Pham
+CNN	Vinnie Malhotra
+CNN	Tory Dunnan
+CNN	Jessica Ravitz
+CNN	Robyn Curnow
+CNN	Federico S. Quadrani
+CNN	Katie Hinman
+CNN	Katie Glaeser
+CNN	Lisa R Cohen
+CNN	The Lead CNN
+CNN	Terence Burke
+CNN	karyn
+CNN	Isabel Bucaram
+CNN	Jennifer Moore
+CNN	CNN Mobile
+CNN	Christopher C. Cuomo
+CNN	Ashley Corum
+CNN	Maegan Ahern
+CNN	Rachel Nichols
+CNN	Erin McPike
+CNN	John Newsome
+CNN	Jake Tapper
+CNN	Newstron
+CNN	Susan Hendricks
+CNN	William Hudson
+CNN	Twitter for News
+CNN	Dorrine Mendoza
+CNN	Keisha LamotheCNN Breaking News	eric fiegel
+CNN Breaking News	Ross Levitt
+CNN Breaking News	John Couwels CNN
+CNN Breaking News	Rich Phillips
+CNN Breaking News	chad myers
+CNN Breaking News	Brian Todd
+CNN Breaking News	jason carroll
+CNN Breaking News	Chris Welch
+CNN Breaking News	Rafael Romo
+CNN Breaking News	John Zarrella
+CNN Breaking News	susan candiotti 
+CNN Breaking News	Mary Snow
+CNN Breaking News	Athena Jones
+CNN Breaking News	Michael Humphrey
+CNN Breaking News	Matthew Chance
+CNN Breaking News	The Situation Room
+CNN Breaking News	Kim Segal
+CNN Breaking News	Kyung Lah
+CNN Breaking News	Paula Hancocks
+CNN Breaking News	Gary Tuchman
+CNN Breaking News	Steven Jiang
+CNN Breaking News	Dana Bash
+CNN Breaking News	Mark Preston
+CNN Breaking News	Sam Feist
+CNN Breaking News	CNN Video
+CNN Breaking News	Frederik Pleitgen
+CNN Breaking News	Nic Robertson
+CNN Breaking News	benwedeman
+CNN Breaking News	CNN Travel
+CNN Breaking News	Impact Your World
+CNN Breaking News	Report: CNN IranDesk
+CNN Breaking News	CNN Entertainment
+CNN Breaking News	John King
+CNN Breaking News	CNN NationalSecurity
+CNN Breaking News	CNN Weather Center
+CNN Breaking News	CNN Tech
+CNN Breaking News	State of the Union
+CNN Breaking News	CNN Politics
+CNN Breaking News	CNNMoney
+CNN Breaking News	VideoNews
+CNN Breaking News	CNNgo
+CNN Breaking News	Richard Quest
+CNN Breaking News	Dr. Sanjay Gupta
+CNN Breaking News	CNN Newsroom
+CNN Breaking News	CNN International
+CNN Breaking News	CNN Political Ticker
+CNN Breaking News	CNN
+CNN Breaking News	CNN iReport
+CNN Breaking News	Anderson Cooper
+CNN	Clarissa WardCNN	Marc Lamont Hill
+CNN	Tumblr
+CNN	Peter Valdes-Dapena
+CNN	Aaron Smith
+CNN	Jose Pagliery
+CNN	Katie Lobosco
+CNN	Ashley Killough
+CNN	Chris Isidore
+CNN	Gregory Wallace
+CNN	TeamCNNI
+CNN	Michael Guy
+CNN	Taylor Ward
+CNN	Samantha Mohr
+CNN	Sean Morris
+CNN	Dave Hennen
+CNN	Bob Van Dillen
+CNN	Monica Garrett
+CNN	Jennifer Gray
+CNN	Todd Borek - CBM
+CNN	Brandon Miller
+CNN	CNN Football Club
+CNN	CNN International PR
+CNN	Christina Manduley
+CNN	TCM
+CNN	TNT Public Relations
+CNN	TBS Public Relations
+CNN	TCM Public Relations
+CNN	truTV
+CNN	Cartoon Network
+CNN	Melodi Smith
+CNN	[adult swim]
+CNN	TNT Drama
+CNN	King of the Nerds
+CNN	Andy Richter
+CNN	Funny Or Die
+CNN	Conan O'Brien
+CNN	Team Coco
+CNN	TBS Network
+CNN	Dallas
+CNN	Boston's Finest
+CNN	PGA.COM
+CNN	NBA.com
+CNN	NBA TV
+CNN	gisella deputato
+CNN	Ed O'Keefe
+CNN	Mark Walz
+CNN	Morning Express 
+CNN	afantz
+CNN	Catherine Shoichet
+CNN	Rachel CraneReuters Top News	reg chua
+Reuters Top News	Roberta Rampton
+Reuters Top News	Steve Bills
+Reuters Top News	Buyouts
+Reuters Top News	Brian Tracey
+Reuters Top News	ReutersBrazil
+Reuters Top News	Biju O Thankappan
+Reuters Top News	Melanie Vine
+Reuters Top News	Sarah Slade
+Reuters Top News	Ryan McCarthy
+Reuters Top News	Dan Levine
+Reuters Top News	Aftab Ahmed
+Reuters Top News	Anantha
+Reuters Top News	nivi
+Reuters Top News	Bijoy Koyitty
+Reuters Top News	Anand Basu
+Reuters Top News	Kate Wendelboe
+Reuters Top News	Reuters Latam
+Reuters Top News	Tom Bergin
+Reuters Top News	Edith Honan
+Reuters Top News	CharlieZHU
+Reuters Top News	Astrid Zweynert
+Reuters Top News	Andrew Callus
+Reuters Top News	Richard Mably
+Reuters Top News	Jason Rhodes
+Reuters Top News	Aaron Maasho
+Reuters Top News	martin veal
+Reuters Top News	Radu Marinas
+Reuters Top News	Divya Chowdhury
+Reuters Top News	Shilpa Jamkhandikar
+Reuters Top News	Padraic Halpin
+Reuters Top News	Erol Emed
+Reuters Top News	Ramya Venugopal
+Reuters Top News	Ahmed Assar
+Reuters Top News	Alastair Goldfisher
+Reuters Top News	Robert Cole
+Reuters Top News	Hugo Dixon
+Reuters Top News	Frank Paul
+Reuters Top News	Noel Randewich
+Reuters Top News	Supantha
+Reuters Top News	Andrew Longstreth
+Reuters Top News	TrustLaw Governance
+Reuters Top News	Grace Benton
+Reuters Top News	Lisa Anderson
+Reuters Top News	TRF Media
+Reuters Top News	Thomson Reuters Fdn
+Reuters Top News	Michele Gershberg
+Reuters Top News	andysullivan
+Reuters Top News	Myra MacDonald
+Reuters Top News	Noah BarkinReuters Top News	Brent Kendall
+Reuters Top News	Lidia Kelly
+Reuters Top News	Oliver Holmes
+Reuters Top News	Mike Hayes
+Reuters Top News	Zeke Miller
+Reuters Top News	Eric Platt
+Reuters Top News	@ReutersVzla
+Reuters Top News	Melissa Murphy
+Reuters Top News	Mark Gurman
+Reuters Top News	Yahoo Finance
+Reuters Top News	Gabriel Debenedetti
+Reuters Top News	CNBC
+Reuters Top News	Michelle Maltais
+Reuters Top News	Luke Baker
+Reuters Top News	Allison Silver
+Reuters Top News	Jim Roberts
+Reuters Top News	U.S. News
+Reuters Top News	Niketa Patel
+Reuters Top News	Jared Keller
+Reuters Top News	The Verge
+Reuters Top News	Colin Jones
+Reuters Top News	Mustafa Kazemi
+Reuters Top News	Nathan Tobey
+Reuters Top News	Jill Jackson
+Reuters Top News	Lawrence Hurley
+Reuters Top News	Steven Dennis
+Reuters Top News	Margarita Noriega
+Reuters Top News	Andrew Moon
+Reuters Top News	Alexander Smith
+Reuters Top News	Sana Saleem
+Reuters Top News	gail sulkes
+Reuters Top News	Robin Respaut
+Reuters Top News	Anupreeta Das
+Reuters Top News	Stefan Becket
+Reuters Top News	Andrew Rafferty
+Reuters Top News	U.S. Dept of Defense
+Reuters Top News	Pope Francis
+Reuters Top News	Jeff Glor
+Reuters Top News	Jon Passantino
+Reuters Top News	Ahmed Shihab-Eldin
+Reuters Top News	Brian Sullivan
+Reuters Top News	SPIEGEL English
+Reuters Top News	Østen Anderson
+Reuters Top News	Reza Sayah
+Reuters Top News	Nick Bilton
+Reuters Top News	P. Andrew Hart
+Reuters Top News	Katie Raml
+Reuters Top News	Hallie Seegal
+Reuters Top News	Michelle Conlin
+Reuters Top News	Duncan MiririCNN	Camilo Egaña
+CNN	Samantha Barry
+CNN	Nick Wrenn
+CNN	Jeremy Harlan
+CNN	Jordan Guzzardo
+CNN	billkirkos
+CNN	Jason Kravarik
+CNN	Andy Bergmann
+CNN	Rachel Smolkin
+CNN	Elisa Raffa
+CNN	Antonia Mortensen
+CNN	Corinna Lamb
+CNN	Jess M. O'Neill
+CNN	Amy Chillag
+CNN	Ian Lee
+CNN	Karl Penhaul
+CNN	Michelle Kosinski
+CNN	Jim Witkowski
+CNN	Jon Jensen
+CNN	James Masters
+CNN	Ryan Smith
+CNN	John Sinnott
+CNN	Tom McGowan
+CNN	Lauren Moorhouse
+CNN	Christina Macfarlane
+CNN	Alex Felton
+CNN	Drew Carey
+CNN	Yon Pom
+CNN	Steve Goldberg
+CNN	Jonathan Schaer
+CNN	Brian Rokus
+CNN	Maria Santana
+CNN	David Ruff
+CNN	Jill Martin
+CNN	Michael Smerconish
+CNN	Leslie Tripp Holland
+CNN	Carma Hassan
+CNN	Ryan Rios
+CNN	ChandlerCNN
+CNN	Bernadette Brown
+CNN	Travis Sattiewhite
+CNN	Jose Antonio Vargas
+CNN	Christi Paul
+CNN	Nick Paton Walsh
+CNN	Gabrielle Solomon
+CNN	DOCUMENTED
+CNN	Javi Morgado
+CNN	Conor Finnegan
+CNN	Paul R. La Monica
+CNN	Brett LarsonCNN	deborah brunswick
+CNN	Allison Rampley
+CNN	Alex Wellen
+CNN	April Andrews
+CNN	Laurie Segall
+CNN	CapitolHillCNN
+CNN	★ Jennifer Wolfe ★
+CNN	Rachel Wells
+CNN	JD Cargill
+CNN	Showbiz Tonight 
+CNN	Martina Stewart
+CNN	Barbara Starr
+CNN	Turner
+CNN	Lisa Desjardins
+CNN	Ryan Cooper
+CNN	Isha Sesay
+CNN	Amanda Moyer
+CNN	Jim Roope
+CNN	dick uliano
+CNN	Steve Kastenbaum
+CNN	Lisa Mirando
+CNN	Angie
+CNN	Tyler Moody
+CNN	Report: CNN IranDesk
+CNN	ed lavandera
+CNN	CNN Entertainment
+CNN	Brooke Baldwin
+CNN	Dana Bash
+CNN	Charles Riley
+CNN	Etan Horowitz
+CNN	Jonathan Mann
+CNN	Richard Roth
+CNN	Impact Your World
+CNN	CNN Radio
+CNN	Brian Todd
+CNN	Brad Parks
+CNN	jason carroll
+CNN	Jonathan Mann
+CNN	Neil Hallsworth
+CNN	Rafael Romo
+CNN	Gary Tuchman
+CNN	Ross Levitt
+CNN	susan candiotti 
+CNN	Laurie Ure
+CNN	Adam Levine
+CNN	Mike Mount
+CNN	Barbara Levin
+CNN	CNN Tech
+CNN	Meredith Artley
+CNN	Luis Carlos VélezThe New York Times	barbara graustark
+The New York Times	Channon Hodge
+The New York Times	Sabrina Tavernise
+The New York Times	Nicole Perlroth
+The New York Times	Jan Benzel
+The New York Times	Michael Owen
+The New York Times	Catriona Stuart
+The New York Times	Rachel Donadio — NYT
+The New York Times	Zena Barakat
+The New York Times	Ellen Barry
+The New York Times	Ashley Southall
+The New York Times	Sam Roberts
+The New York Times	Ford Fessenden
+The New York Times	Diantha Parker
+The New York Times	Andrea Elliott
+The New York Times	Maira Garcia
+The New York Times	David Halbfinger
+The New York Times	Philip B. Corbett
+The New York Times	Matt Flegenheimer
+The New York Times	Michael Strickland
+The New York Times	Hanna Ingber
+The New York Times	Sona Patel
+The New York Times	Heather Tal Murphy
+The New York Times	John Tierney
+The New York Times	Adam B. Ellick
+The New York Times	Thomas Erdbrink
+The New York Times	Kathy Ryan
+The New York Times	melissa clark
+The New York Times	Ashwin Seshagiri
+The New York Times	Andrew Phelps
+The New York Times	Joe Goldstein
+The New York Times	rickgladstone
+The New York Times	Steve Eder
+The New York Times	deborah needleman
+The New York Times	Tom Redburn
+The New York Times	Michael Winerip
+The New York Times	Naila-Jean Meyers
+The New York Times	Mark McDonald
+The New York Times	New York Times Arts
+The New York Times	Steven Erlanger
+The New York Times	Christine Hauser
+The New York Times	jason stallman
+The New York Times	NYT News Research 
+The New York Times	Alan Cowell
+The New York Times	Douglas Schorzman
+The New York Times	James B. Stewart
+The New York Times	helenecooper
+The New York Times	Gail Bichler
+The New York Times	Paul Werdel
+The New York Times	Robert PearThe New York Times	sethdaggett
+The New York Times	Palko Karasz
+The New York Times	Andrei Kallaur
+The New York Times	Farah Assir
+The New York Times	Matt Diaz
+The New York Times	Seth Kugel
+The New York Times	Nicholas Blechman
+The New York Times	Chris Dzombak
+The New York Times	Agnes Chang
+The New York Times	Grant Gold
+The New York Times	Matt Ruby
+The New York Times	Lian Chang
+The New York Times	Boris Chen
+The New York Times	Reed Emmons
+The New York Times	Tony Brancato
+The New York Times	Daniel Jones
+The New York Times	Cate Doty
+The New York Times	Farhad Manjoo
+The New York Times	Tamara Best
+The New York Times	Joel Petterson
+The New York Times	Andrew Stanfill
+The New York Times	Stephen Castle
+The New York Times	Suzanne Daley
+The New York Times	Adam Fusfeld
+The New York Times	michael corkery
+The New York Times	Annie Correal
+The New York Times	Chris Buckley 储百亮
+The New York Times	John Koblin
+The New York Times	Neil Irwin
+The New York Times	Carlotta Gall
+The New York Times	Ian Urbina
+The New York Times	Matt Apuzzo
+The New York Times	Nikita Stewart
+The New York Times	Marcus Mabry
+The New York Times	Jennifer Szalai
+The New York Times	Mickey Meece
+The New York Times	Michael Tackett
+The New York Times	Mark Mazzetti
+The New York Times	Kelly Couturier
+The New York Times	NYT 4th Down Bot
+The New York Times	Sharon LaFraniere
+The New York Times	Justine Maki
+The New York Times	Nelson Schwartz
+The New York Times	Justin Wolfers
+The New York Times	Michael Beschloss
+The New York Times	Nate Cohn
+The New York Times	Amanda Cox
+The New York Times	Melissa Eddy
+The New York Times	Clifford Krauss,NYT
+The New York Times	Doreen CarvajalCNN	CNN Collection
+CNN	CNNMoney Investing
+CNN	Paul Ferguson
+CNN	Dan Lothian
+CNN	CNNfan.org
+CNN	CNN Hurricane HQ
+CNN	Matthew Mochow
+CNN	CNN Tech
+CNN	Eli Flournoy
+CNN	CNN Observations
+CNN	John Branch
+CNN	Mark Bixler
+CNN	Shirley Zilberstein
+CNN	CNN France
+CNN	Sara Pratley
+CNN	Jim Barnett
+CNN	Pedram Javaheri
+CNN	R Baker
+CNN	Ravi Agrawal
+CNN	Van Scott
+CNN	Paula Hancocks
+CNN	Moni Basu
+CNN	Samuel Burke
+CNN	Mohammed Tawfeeq
+CNN	Becky Anderson
+CNN	Susan Durrwachter
+CNN	Ted Barrett 
+CNN	mary primiano
+CNN	Ben Wyatt
+CNN	Mitra Mobasherat
+CNN	Pedro Pinto
+CNN	Larry Shaughnessy
+CNN	Phil Black
+CNN	Morgan Neill
+CNN	Devna Shukla
+CNN	Chris Eldergill
+CNN	KatherineGreenCNN
+CNN	Dan Szematowicz
+CNN	CNNFriedmanC
+CNN	Dylan Reynolds
+CNN	Deirdre Walsh
+CNN	Christine Sever
+CNN	Jennifer Z. Deaton
+CNN	Diana Magnay
+CNN	Karin Caifa
+CNN	Karen Smith
+CNN	Mary Snow
+CNN	Emily Smith
+CNN	Jenny Day
+CNN	Jill ChappellThe New York Times	Motoko Rich
+The New York Times	Jad Mouawad
+The New York Times	Kevin McKenna
+The New York Times	Steve Lohr
+The New York Times	Ron Lieber
+The New York Times	Phyllis Korkki
+The New York Times	Mark S. Getzfred
+The New York Times	Charles Duhigg
+The New York Times	Damon Darlin✒️
+The New York Times	Stephanie Clifford
+The New York Times	Graham Bowley
+The New York Times	Julie Bosman
+The New York Times	Vikas Bajaj
+The New York Times	Tim Arango
+The New York Times	Archie Tse
+The New York Times	Julie Walton Shaver
+The New York Times	Graham Roberts
+The New York Times	Matthew Ericson
+The New York Times	Steve Duenes
+The New York Times	Sam Anderson
+The New York Times	Julie Bloom
+The New York Times	Ian Adelman
+The New York Times	Kevin Quealy
+The New York Times	Corey Kilgannon
+The New York Times	melena ryzik
+The New York Times	Thomas Kaplan
+The New York Times	Dwight Garner
+The New York Times	Nick Fox
+The New York Times	John Schwartz
+The New York Times	David Leonhardt
+The New York Times	Tyson Evans
+The New York Times	Brian Hamman
+The New York Times	Sam Sifton
+The New York Times	Simone S. Oliver
+The New York Times	J. David Goodman
+The New York Times	stuart emmrich
+The New York Times	Ravi Somaiya
+The New York Times	C.J. Chivers
+The New York Times	Stephen Farrell
+The New York Times	NYTimes Mobile
+The New York Times	Michael Zimbalist
+The New York Times	Fernanda Santos
+The New York Times	Jeremy W. Peters
+The New York Times	NYT Newsroom Mouse
+The New York Times	katephillips
+The New York Times	Frank Bruni
+The New York Times	Charlie Savage
+The New York Times	jodikantor
+The New York Times	carl hulse
+The New York Times	Mark LeibovichThe New York Times	Jeremy White
+The New York Times	Tiff Fehr
+The New York Times	David W. Dunlap
+The New York Times	Will Shortz
+The New York Times	Melissa Hoppert
+The New York Times	Hari Kumar
+The New York Times	David Barboza
+The New York Times	Eileen Murphy
+The New York Times	Perri Klass
+The New York Times	Rosie Schaap
+The New York Times	Benoit Denizet-Lewis
+The New York Times	Maud Newton
+The New York Times	Brian X. Chen
+The New York Times	David D. Kirkpatrick
+The New York Times	KJ Dell'Antonia
+The New York Times	Julia Moskin
+The New York Times	Albert Sun
+The New York Times	Peter Eavis
+The New York Times	John Fisher Burns
+The New York Times	Emma G. Fitzsimmons
+The New York Times	Jo Becker
+The New York Times	Mick Sussman
+The New York Times	Ariane B.
+The New York Times	Malia Wollan
+The New York Times	Simon Romero
+The New York Times	jimrutenberg
+The New York Times	Dean E. Murphy
+The New York Times	Suzanne Spector
+The New York Times	Michael Slackman
+The New York Times	Kirk Semple
+The New York Times	carol giacomo
+The New York Times	Nick Corasaniti
+The New York Times	Elisabeth Rosenthal
+The New York Times	Jon Caramanica
+The New York Times	Jason Spingarn-Koff
+The New York Times	Libby Gery
+The New York Times	Joanna Nikas
+The New York Times	Kirk Johnson
+The New York Times	Campbell Robertson
+The New York Times	Lizette Alvarez
+The New York Times	Susan Chira
+The New York Times	Robert Mackey
+The New York Times	Jennifer Schuessler
+The New York Times	Krysten Chambrot
+The New York Times	Adrienne Carter
+The New York Times	Matthew Rosenberg
+The New York Times	Andrew Scrivani
+The New York Times	Jess Bidgood
+The New York Times	Declan Walsh 
+The New York Times	Tyler HicksThe New York Times	Mekado Murphy
+The New York Times	Daniel McDermon
+The New York Times	Emily Weinstein
+The New York Times	Todd Heisler
+The New York Times	Jennifer Medina
+The New York Times	Thomas Feyer
+The New York Times	Michael Roston
+The New York Times	Serge Kovaleski
+The New York Times	Erik Piepenburg
+The New York Times	Catrin Einhorn
+The New York Times	Cara Buckley
+The New York Times	Elizabeth A. Harris
+The New York Times	Anemona Hartocollis
+The New York Times	diego ribadeneira
+The New York Times	Mike Grynbaum
+The New York Times	Michael D. Shear
+The New York Times	Peter Lattman
+The New York Times	David W. Chen
+The New York Times	Ann Derry
+The New York Times	Vivian Toy
+The New York Times	Paul Volpe
+The New York Times	Diana B. Henriques
+The New York Times	Pete Wells
+The New York Times	Jesse McKinley
+The New York Times	Mike Wilson
+The New York Times	Katie Thomas
+The New York Times	Lydia Polgreen
+The New York Times	Amy Harmon
+The New York Times	Michael Paulson
+The New York Times	Marc Frons
+The New York Times	Rich Meislin
+The New York Times	Matthew Orr
+The New York Times	Brent McDonald
+The New York Times	Bassey Etim
+The New York Times	Hamilton Boardman
+The New York Times	Danielle Belopotosky
+The New York Times	Jim Dwyer
+The New York Times	Peter Applebome
+The New York Times	Daniel Wakin
+The New York Times	Ben Sisario
+The New York Times	Jon Pareles
+The New York Times	Lorne Manly
+The New York Times	Dave Itzkoff
+The New York Times	Scott Heller
+The New York Times	LaSharah Bunting
+The New York Times	Patricia Cohen
+The New York Times	Nick Bilton
+The New York Times	Edward Wong
+The New York Times	Nicholas Kulish
+The New York Times	jeff sommerCNN	Great Big Story
+CNN	Sam Schlinkert
+CNN	Pope Francis
 CNN	MJ Lee
+CNN	nikkig
+CNN	Eric Bradner
+CNN	Rick Lewchuk
+CNN	CNN Style
+CNN	Eugene Scott
+CNN	Rashard Elijah
+CNN	Nelson Quinones
+CNN	Penelope Patsuris
+CNN	Catherine Tymkiw
+CNN	CNN Silk Road
+CNN	Mike Tarson
+CNN	Mark Mooney
+CNN	Leezel Tanglao
+CNN	Ryan Moore
+CNN	CNN México
+CNN	David Allan
+CNN	Sara Murray
+CNN	Tanzina Vega
+CNN	Mallika Kapur
+CNN	Meredith Richards
+CNN	Alexandra Jaffe
+CNN	Wes Bruer CNN
+CNN	Harry Reekie
+CNN	Polo Sandoval
+CNN	CNN بالعربية
+CNN	Tom Kludt
+CNN	Gregg Montgomery
+CNN	Coy Wire
+CNN	Hope King
+CNN	Tami Luhby
+CNN	Hannah Bae
+CNN	Alanna Petroff
+CNN	Heather Long
+CNN	Virginia Harrison
+CNN	Yasmin Khorram
+CNN	BBC Trending
+CNN	Jason Farkas
+CNN	Daphne Sashin
+CNN	Jennifer Feldman
+CNN	CNN Recruiters
+CNN	Juan C Arciniegas
+CNN	CumbrianNeilCurry
+CNN	Tesla Motors
+CNN	Richard Branson
+CNN	SpaceX
+CNN	Elon MuskThe New York Times	julia werdigier
+The New York Times	A.G. Sulzberger
+The New York Times	Susanne Craig
+The New York Times	Michael Powell
+The New York Times	mike mcphate
+The New York Times	Gina Lamb
+The New York Times	Kevin Granville
+The New York Times	Ashley Parker
+The New York Times	Emmarie Huetteman
+The New York Times	Meaghan Looram
+The New York Times	Nic Barajas
+The New York Times	Jenny Anderson
+The New York Times	Diego Sorbara
+The New York Times	amyvirshup
+The New York Times	Ian Fisher
+The New York Times	NYT Open Source
+The New York Times	Pedro Rafael Rosado
+The New York Times	Whitney Dangerfield
+The New York Times	Disunion
+The New York Times	Michael Barbaro
+The New York Times	nytlabs
+The New York Times	Andrew Rosenthal
+The New York Times	Eduardo Porter
+The New York Times	Lawrence Downes
+The New York Times	EleanorRandolph
+The New York Times	NYT Customer Care
+The New York Times	Robin Pogrebin
+The New York Times	Keith Bradsher
+The New York Times	Laura M. Holson
+The New York Times	John Harwood
+The New York Times	Sarah Nir
+The New York Times	Ben Werschkul
+The New York Times	Marc Lacey
+The New York Times	Michael Kolomatsky
+The New York Times	Nick Confessore
+The New York Times	Erik Olsen
+The New York Times	WmFerguson
+The New York Times	Eric Owles
+The New York Times	Gerry Marzorati
+The New York Times	Anand Giridharadas
+The New York Times	Joe Drape
+The New York Times	Juliet Macur
+The New York Times	Hiroko Tabuchi
+The New York Times	Tyler Kepner
+The New York Times	sbhanoo
+The New York Times	Diane McNulty
+The New York Times	David Seguin
+The New York Times	Jaymin Patel
+The New York Times	Eitan Konigsburg
+The New York Times	EdwardBohanReuters Top News	alexei oreskovic
+Reuters Top News	Brenton Cordeiro
+Reuters Top News	Divya Sharma 
+Reuters Top News	Bernie Woodall
+Reuters Top News	Soyoung Kim
+Reuters Top News	Ritsuko Ando
+Reuters Top News	Martha Graybow
+Reuters Top News	Tiffany Wu
+Reuters Top News	Ben Berkowitz
+Reuters Top News	Anirban Sen
+Reuters Top News	Nallur Sethuraman
+Reuters Top News	Gemma Haines
+Reuters Top News	Joanna Webster
+Reuters Top News	Carlos Barria
+Reuters Top News	Brian Snyder
+Reuters Top News	Sharon Reich
+Reuters Top News	David M. Toll
+Reuters Top News	Scott Malone
+Reuters Top News	Jim Gaines
+Reuters Top News	Paul Sandle
+Reuters Top News	Andy Bruce
+Reuters Top News	Quentin Webb
+Reuters Top News	Vincent Flasseur
+Reuters Top News	Scott Barber
+Reuters Top News	Sumeet Desai
+Reuters Top News	Linda Noakes
+Reuters Top News	Victoria Bryan
+Reuters Top News	Ellen Wulfhorst
+Reuters Top News	Emma Graham-Harrison
+Reuters Top News	Peter Myers
+Reuters Top News	Daniel Trotta
+Reuters Top News	Damien Frennet
+Reuters Top News	Ross Kerber
+Reuters Top News	Daniel Bases
+Reuters Top News	Edwin Chan
+Reuters Top News	Nancy Lapid
+Reuters Top News	blgoldberg17
+Reuters Top News	Una Galani
+Reuters Top News	Amy Resnick
+Reuters Top News	Alicia like Patricia
+Reuters Top News	Manuela Badawy
+Reuters Top News	Terry Moseley
+Reuters Top News	Jolie Hunt
+Reuters Top News	Wieteke Dupain
+Reuters Top News	WestlawPublicRecords
+Reuters Top News	Erin Geiger Smith
+Reuters Top News	Mark Edward Goodrich
+Reuters Top News	Anahi Rama Martinez
+Reuters Top News	mike blake
+Reuters Top News	Jonathan LynnFox News	FOX19
+Fox News	George Kindel
+Fox News	Shannon Gupta
+Fox News	FOX Carolina News
+Fox News	John Huddy
+Fox News	David Webb
+Fox News	FOX 2 Detroit
+Fox News	FOX 7 Austin
+Fox News	FOX 4 NEWS
+Fox News	Stacey Dash
+Fox News	Meghan McCain
+Fox News	Montel Williams
+Fox News	Trish Regan
+Fox News	Kevin Corke
+Fox News	FOX Baltimore
+Fox News	Tia A. Ewing
+Fox News	Conor Powell
+Fox News	Jillian Melchior
+Fox News	James Taranto
+Fox News	Hootsuite
+Fox News	Alexandria Hein
+Fox News	Mindy Carstensen
+Fox News	FoxNewsInsider
+Fox News	Brian Mastroianni
+Fox News	Aalia Shaheed
+Fox News	FOX 5 Atlanta
+Fox News	James Rogers
+Fox News	Peter Morici
+Fox News	IDF
+Fox News	Mike Arroyo
+Fox News	ElizabethPrann@FOX
+Fox News	Sunday Futures
+Fox News	John R Lott Jr.
+Fox News	FOX411 Country
+Fox News	Leora Arnowitz
+Fox News	CIA
+Fox News	Lea Gabrielle
+Fox News	Sandra Smith
+Fox News	NJSP - State Police
+Fox News	Outnumbered
+Fox News	FoxNews.Commie
+Fox News	David Asman
+Fox News	Amy Kellogg
+Fox News	hillaryvaughn
+Fox News	Mornings with Maria
+Fox News	Jedediah Bila
+Fox News	Will Carr
+Fox News	Dominic Di-Natale
+Fox News	Judson Berger
+Fox News	Maria BartiromoReuters Top News	Cezary Podkul
+Reuters Top News	Reuters News Agency
+Reuters Top News	bechamilton
+Reuters Top News	Jeremy J Laurence
+Reuters Top News	susan zeidler
+Reuters Top News	Ed Tobin
+Reuters Top News	PJ Huffstutter
+Reuters Top News	Reuters Opinion
+Reuters Top News	Tim Ahmann
+Reuters Top News	MarieLouiseGumuchian
+Reuters Top News	Mike Collett Reuters
+Reuters Top News	Patrick Johnston
+Reuters Top News	Caitlin Tremblay
+Reuters Top News	Leigh Jones
+Reuters Top News	Eddie Evans
+Reuters Top News	noeleenwalder
+Reuters Top News	Lisa Richwine
+Reuters Top News	Jeremy Pelofsky
+Reuters Top News	Arlyn Gajilan
+Reuters Top News	Terry Baynes
+Reuters Top News	Jesse Wegman
+Reuters Top News	Peter Henderson
+Reuters Top News	John Peabody
+Reuters Top News	Martinne Geller
+Reuters Top News	Jennifer Golson
+Reuters Top News	Jack Shafer
+Reuters Top News	Nick Brown
+Reuters Top News	Jilian Mincer
+Reuters Top News	Alastair Dant
+Reuters Top News	Sarah N. Lynch
+Reuters Top News	Special Reports
+Reuters Top News	Harry Suhartono
+Reuters Top News	Fion Li
+Reuters Top News	John Ruwitch
+Reuters Top News	John Sinclair Foley
+Reuters Top News	Lucy Hornby
+Reuters Top News	Jason Subler
+Reuters Top News	Sui-Lee Wee 黄瑞黎
+Reuters Top News	Swati Bhat Shetye
+Reuters Top News	Annie Banerji
+Reuters Top News	Saikat Chatterjee
+Reuters Top News	MatthiasWilliams
+Reuters Top News	John Chalmers
+Reuters Top News	Jonathon Burch
+Reuters Top News	Rob Taylor
+Reuters Top News	Hamid Shalizi
+Reuters Top News	Bryson Hull
+Reuters Top News	Christopher Spink
+Reuters Top News	Matthew Davies
+Reuters Top News	Amie Ferris-RotmanReuters Top News	Nisha Chittal
+Reuters Top News	Anthony De Rosa
+Reuters Top News	Michael S. Derby
+Reuters Top News	Justin Wolfers
+Reuters Top News	Laura Rozen
+Reuters Top News	ಠ_ಠ
+Reuters Top News	Alexander C. Kaufman
+Reuters Top News	Peter Sterne
+Reuters Top News	CNBC World
+Reuters Top News	Joe Bavier 
+Reuters Top News	Megan Hess
+Reuters Top News	Terry Moran
+Reuters Top News	Joseph Lichterman
+Reuters Top News	Delcy Rodríguez
+Reuters Top News	Gabriel Elizondo
+Reuters Top News	David Bird
+Reuters Top News	Nicolás Maduro
+Reuters Top News	Amy Sawitta Lefevre
+Reuters Top News	Micah Grimes
+Reuters Top News	David Wyllie
+Reuters Top News	Maria Caspani
+Reuters Top News	AJAM Live
+Reuters Top News	Lisa Richwine
+Reuters Top News	Lawrence White
+Reuters Top News	Paul Ingrassia
+Reuters Top News	Andy Bruce
+Reuters Top News	David Ljunggren
+Reuters Top News	Greg Roumeliotis
+Reuters Top News	Lisa Bernhard
+Reuters Top News	Lionel Laurent
+Reuters Top News	Amlan Chakraborty
+Reuters Top News	Reuters Institute
+Reuters Top News	Casey Sullivan
+Reuters Top News	Paul Krugman
+Reuters Top News	Madeleine Albright
+Reuters Top News	Hassan Rouhani
+Reuters Top News	Robert J Shiller
+Reuters Top News	Andrew Katz
+Reuters Top News	Shane
+Reuters Top News	BuzzFeed News
+Reuters Top News	Ben Dreyfuss
+Reuters Top News	Hayes Brown
+Reuters Top News	Ed Pilkington
+Reuters Top News	Matt Wells
+Reuters Top News	Janine Gibson
+Reuters Top News	Stuart Millar
+Reuters Top News	Tom Jackman
+Reuters Top News	Twitter for News
+Reuters Top News	tofu
+Reuters Top News	Lourdes MeluzaThe New York Times	Sheryl Stolberg
+The New York Times	a. o. scott
+The New York Times	NYT Developers
+The New York Times	JamesEstrin
+The New York Times	Katherine Schulten
+The New York Times	NYT Learning Network
+The New York Times	Damien Cave
+The New York Times	NYT Technology
+The New York Times	NYT Olympics 
+The New York Times	David Joachim, NYT
+The New York Times	NYTimes Autos
+The New York Times	NYT Prescriptions
+The New York Times	Thomas L. Friedman
+The New York Times	Maureen Dowd
+The New York Times	NYTimes Travel Show
+The New York Times	NYT Small Business
+The New York Times	NYTimesRecruit
+The New York Times	Michael de la Merced
+The New York Times	Ray  Krueger
+The New York Times	NYT Opinionator
+The New York Times	TimesTalks 
+The New York Times	Tara Parker-Pope
+The New York Times	Cynthia Collins
+The New York Times	Stephanie Rosenbloom
+The New York Times	Bill Pennington
+The New York Times	Dan Saltzstein
+The New York Times	Evan Sandhaus
+The New York Times	ES Rueb
+The New York Times	NYT Real Estate
+The New York Times	Andrew Ross Sorkin
+The New York Times	Louise Story
+The New York Times	NYT Photo
+The New York Times	Bill Pennington
+The New York Times	NYT Your Money
+The New York Times	NY Times Weddings
+The New York Times	New York Times Video
+The New York Times	NYT Theater
+The New York Times	The Public Editor
+The New York Times	The Motherlode
+The New York Times	NYT Magazine
+The New York Times	Paul Krugman
+The New York Times	New York Times Music
+The New York Times	NYT Home
+The New York Times	Gail Collins
+The New York Times	NYT Fashion
+The New York Times	NYT Education Life
+The New York Times	The Upshot 
+The New York Times	DealBook
+The New York Times	At War
+The New York Times	NYT Media Fox News	Ron Paul
+Fox News	Rick Perry
+Fox News	Mitt Romney
+Fox News	Rupert Murdoch 
+Fox News	toddstarnes
+Fox News	Fox Business Tech
+Fox News	The Five
+Fox News	greg kelly
+Fox News	Fox News Health
+Fox News	U.S. Dept of Defense
+Fox News	petesouza
+Fox News	Jeff Monosso
+Fox News	WSJ Markets
+Fox News	Brian Kilmeade
+Fox News	FoxNewsSunday
+Fox News	America's News HQ
+Fox News	Geraldo At Large
+Fox News	Forbes on Fox
+Fox News	Mike Emanuel
+Fox News	Fox&Friends Weekend
+Fox News	Molly Line 
+Fox News	The Huckabee Show 
+Fox News	Fr. Jonathan Morris
+Fox News	Tobin Smith
+Fox News	Cynara Coomer
+Fox News	Jonathan Serrie
+Fox News	Gregg Jarrett
+Fox News	Patti Ann Browne
+Fox News	Maria Molina
+Fox News	Robert Gray
+Fox News	Ed Henry
+Fox News	Joe Trippi
+Fox News	ChuckGrassley
+Fox News	Newt Gingrich
+Fox News	David Gregory
+Fox News	Claire McCaskill
+Fox News	Michelle Malkin
+Fox News	Fred Thompson
+Fox News	Gov. Bobby Jindal
+Fox News	John Thune
+Fox News	U.S. Senator Jon Kyl
+Fox News	Sen. Lamar Alexander
+Fox News	Rep. Pete King
+Fox News	Governor Christie
+Fox News	Ann Coulter
+Fox News	Carly Fiorina
+Fox News	Rick Scott
+Fox News	Joe Lieberman
+Fox News	Ron Paul
+Fox News	Haley Barbour
