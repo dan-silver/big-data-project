@@ -15,7 +15,7 @@ var T = new Twit({
   access_token_secret: keys.access_token_secret
 });
 
-var DATA_DIRECTORY = 'idsToConvert/'
+var DATA_DIRECTORY = 'data/'
 
 fs.readdir(DATA_DIRECTORY, function(err, files) {
 	if (err) throw err;
@@ -25,12 +25,15 @@ fs.readdir(DATA_DIRECTORY, function(err, files) {
 			input: require('fs').createReadStream(DATA_DIRECTORY + file)
 		});
 
-		rl.on('line', function (userId) {
-			addUserIdToQueue(file, userId)
-		});
+		(function(file) { //bind filename to a local var in the async callback
+			rl.on('line', function (userId) {
+				addUserIdToQueue(file, userId)
+			});
+		})(file);
 
-		(function(i) {
+		(function(i) { //bind i to a local var in the async callback
 			rl.on('close', function () {
+				// after the last file is read and the entries are added to the queue
 				if (i == files.length -1) {
 					processQueue();
 				}
@@ -52,7 +55,7 @@ function sendBatchUserRequest() {
 	// object format
 	// {userId, filename}
 
-	console.log("Looking up ", batchOfUsers.length, "users")
+	console.log("Looking up", batchOfUsers.length, "users")
 
 	//create object with key=userId value=filename
 
@@ -65,7 +68,7 @@ function sendBatchUserRequest() {
 		userLookup[batchOfUsers[i].userId] = {filename: batchOfUsers[i].filename, dataRow: true}
 	}
 
-	// console.log(userLookup)
+	console.log(userLookup)
 
 	var ids = ids.filter(onlyUnique);
 
@@ -74,9 +77,9 @@ function sendBatchUserRequest() {
 
 		for (var i=0; i<data.length; i++) {
 			if (data[i].id in userLookup) {
-				userLookup[data[i].id].name = data[i].name
+				userLookup[data[i].id].name = data[i].screen_name
 			} else {
-				userLookup[data[i].id] = {name: data[i].name}
+				userLookup[data[i].id] = {name: data[i].screen_name}
 			}
 		}
 		// console.log(userLookup)
@@ -85,8 +88,8 @@ function sendBatchUserRequest() {
 		var lines = []
 		for (var i=0; i<data.length; i++) {
 			if (data[i].id in userLookup && userLookup[data[i].id].dataRow) {
-				console.log(data[i].id, data[i].name, userLookup[data[i].id].filename, userLookup[userLookup[data[i].id].filename].name)
-				lines.push(userLookup[userLookup[data[i].id].filename].name + "\t" + data[i].name)
+				console.log(data[i].id, data[i].screen_name, userLookup[data[i].id].filename, userLookup[userLookup[data[i].id].filename].name)
+				lines.push(userLookup[userLookup[data[i].id].filename].name + "\t" + data[i].screen_name)
 			}
 		}
 
@@ -96,15 +99,17 @@ function sendBatchUserRequest() {
 	});
 }
 
+
+// helper method to remove duplicates from an array
 function onlyUnique(value, index, self) { 
     return self.indexOf(value) === index;
 }
 
 
 function processQueue() {
-	if (userIdQueue.length >= 80) {
+	if (userIdQueue.length >= 30) {
 		console.log("Popping queue")
 		sendBatchUserRequest()
-		setTimeout(processQueue, 15*1000)
+		setTimeout(processQueue, 60*1000)
 	}
 }
