@@ -52,37 +52,33 @@ function addUserIdToQueue(file, userId) {
 }
 
 function sendBatchUserRequest() {
-	// object format
-	// {userId, filename}
 
-
-	//create object with key=userId value=filename
-
-	var userLookup = {}
-	var ids = []
-	var lines = []
+	var ids = [],
+		batchOfUsers = [];
 
 	// if size(ids) < 98 add another id (or possibly two if filename != id)
-	while (ids.length < 98)
-		var user = userIdQueue.splice(0, 1);
+	while (ids.length < 99) {
+		var user = userIdQueue.splice(0, 1)[0];
+
+		batchOfUsers.push(user);
 
 		// check if we've already cached the id
 		if (!(user.userId in global_user_map)) {
 			ids.push(user.userId)
+		} else {
+			console.log("cache hit 1")
 		}
 
 		if (!(user.filename in global_user_map)) {
 			ids.push(user.filename)
+		} else {
+			console.log("cache hit 2")
 		}
-
-		userLookup[user.userId] = {filename: user.filename, dataRow: true}
 		
 		ids = ids.filter(onlyUnique);
 	}
 
-	console.log("Looking up", ids.length, "users with Twitter API")
-
-	// console.log(userLookup)
+	console.log("Looking up", ids.length, "ids with Twitter API of total", batchOfUsers.length, "users in this batch")
 
 	T.get('users/lookup', { user_id: ids.join(',') },  function(error, data, response) {
 		if (error) {
@@ -96,21 +92,7 @@ function sendBatchUserRequest() {
 			global_user_map[data[i].id] = data[i].screen_name;
 		}
 
-
-			// if (data[i].id in userLookup) {
-			// 	userLookup[data[i].id].name = data[i].screen_name
-			// } else {
-			// 	userLookup[data[i].id] = {name: data[i].screen_name}
-			// }
-		}
-
-		// console.log(userLookup)
-		// for (var i=0; i<data.length; i++) {
-		// 	if (data[i].id in userLookup && userLookup[data[i].id].dataRow) {
-		// 		// console.log(data[i].id, data[i].screen_name, userLookup[data[i].id].filename, userLookup[userLookup[data[i].id].filename].name)
-		// 		lines.push(userLookup[userLookup[data[i].id].filename].name + "\t" + data[i].screen_name)
-		// 	}
-		// }
+		var lines = []
 
 		for (var i=0; i<batchOfUsers.length; i++) {
 			var user = batchOfUsers[i];
@@ -121,12 +103,12 @@ function sendBatchUserRequest() {
 			var followerName  = global_user_map[followerId] ;
 			var followingName = global_user_map[followingId];
 			
-			lines.push(followerName + "\t" + followinNgame);
+			lines.push(followerName + "\t" + followingName);
 		}
 
 
 
-		fs.appendFile('userFollowingList.txt', lines.join('\n'), function (error) {
+		fs.appendFile('userFollowingList.txt', lines.join('\n') + "\n", function (error) {
 			if (error) throw error;
 		});
 	});
@@ -140,7 +122,7 @@ function onlyUnique(value, index, self) {
 
 
 function processQueue() {
-	if (userIdQueue.length >= 90) {
+	if (userIdQueue.length >= 150) {
 		console.log("Popping queue")
 		sendBatchUserRequest()
 		setTimeout(processQueue, 30*1000)
