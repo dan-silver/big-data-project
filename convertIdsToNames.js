@@ -17,6 +17,8 @@ var T = new Twit({
 
 var DATA_DIRECTORY = 'data/'
 
+var global_user_map = {}; // {userid:name}
+
 fs.readdir(DATA_DIRECTORY, function(err, files) {
 	if (err) throw err;
 	for(var i=0; i<files.length; i++) {
@@ -50,27 +52,37 @@ function addUserIdToQueue(file, userId) {
 }
 
 function sendBatchUserRequest() {
-	var batchOfUsers = userIdQueue.splice(0, 90);
-
 	// object format
 	// {userId, filename}
 
-	console.log("Looking up", batchOfUsers.length, "users")
 
 	//create object with key=userId value=filename
 
 	var userLookup = {}
 	var ids = []
+	var lines = []
 
-	for (var i=0; i<batchOfUsers.length; i++) {
-		ids.push(batchOfUsers[i].userId)
-		ids.push(batchOfUsers[i].filename)
-		userLookup[batchOfUsers[i].userId] = {filename: batchOfUsers[i].filename, dataRow: true}
+	// if size(ids) < 98 add another id (or possibly two if filename != id)
+	while (ids.length < 98)
+		var user = userIdQueue.splice(0, 1);
+
+		// check if we've already cached the id
+		if (!(user.userId in global_user_map)) {
+			ids.push(user.userId)
+		}
+
+		if (!(user.filename in global_user_map)) {
+			ids.push(user.filename)
+		}
+
+		userLookup[user.userId] = {filename: user.filename, dataRow: true}
+		
+		ids = ids.filter(onlyUnique);
 	}
 
-	// console.log(userLookup)
+	console.log("Looking up", ids.length, "users with Twitter API")
 
-	var ids = ids.filter(onlyUnique);
+	// console.log(userLookup)
 
 	T.get('users/lookup', { user_id: ids.join(',') },  function(error, data, response) {
 		if (error) {
@@ -81,22 +93,38 @@ function sendBatchUserRequest() {
 		}
 
 		for (var i=0; i<data.length; i++) {
-			if (data[i].id in userLookup) {
-				userLookup[data[i].id].name = data[i].screen_name
-			} else {
-				userLookup[data[i].id] = {name: data[i].screen_name}
-			}
+			global_user_map[data[i].id] = data[i].screen_name;
 		}
+
+
+			// if (data[i].id in userLookup) {
+			// 	userLookup[data[i].id].name = data[i].screen_name
+			// } else {
+			// 	userLookup[data[i].id] = {name: data[i].screen_name}
+			// }
+		}
+
 		// console.log(userLookup)
+		// for (var i=0; i<data.length; i++) {
+		// 	if (data[i].id in userLookup && userLookup[data[i].id].dataRow) {
+		// 		// console.log(data[i].id, data[i].screen_name, userLookup[data[i].id].filename, userLookup[userLookup[data[i].id].filename].name)
+		// 		lines.push(userLookup[userLookup[data[i].id].filename].name + "\t" + data[i].screen_name)
+		// 	}
+		// }
 
+		for (var i=0; i<batchOfUsers.length; i++) {
+			var user = batchOfUsers[i];
 
-		var lines = []
-		for (var i=0; i<data.length; i++) {
-			if (data[i].id in userLookup && userLookup[data[i].id].dataRow) {
-				// console.log(data[i].id, data[i].screen_name, userLookup[data[i].id].filename, userLookup[userLookup[data[i].id].filename].name)
-				lines.push(userLookup[userLookup[data[i].id].filename].name + "\t" + data[i].screen_name)
-			}
+			var followerId  = user.filename;
+			var followingId = user.userId;
+
+			var followerName  = global_user_map[followerId] ;
+			var followingName = global_user_map[followingId];
+			
+			lines.push(followerName + "\t" + followinNgame);
 		}
+
+
 
 		fs.appendFile('userFollowingList.txt', lines.join('\n'), function (error) {
 			if (error) throw error;
