@@ -68,12 +68,17 @@ function sendBatchUserRequest() {
 		userLookup[batchOfUsers[i].userId] = {filename: batchOfUsers[i].filename, dataRow: true}
 	}
 
-	console.log(userLookup)
+	// console.log(userLookup)
 
 	var ids = ids.filter(onlyUnique);
 
 	T.get('users/lookup', { user_id: ids.join(',') },  function(error, data, response) {
-		if (error) throw error;
+		if (error) {
+			//add the users back to the queue so it can be tried again
+			userIdQueue = userIdQueue.concat(batchOfUsers);
+			console.error(error);
+			return;
+		}
 
 		for (var i=0; i<data.length; i++) {
 			if (data[i].id in userLookup) {
@@ -88,7 +93,7 @@ function sendBatchUserRequest() {
 		var lines = []
 		for (var i=0; i<data.length; i++) {
 			if (data[i].id in userLookup && userLookup[data[i].id].dataRow) {
-				console.log(data[i].id, data[i].screen_name, userLookup[data[i].id].filename, userLookup[userLookup[data[i].id].filename].name)
+				// console.log(data[i].id, data[i].screen_name, userLookup[data[i].id].filename, userLookup[userLookup[data[i].id].filename].name)
 				lines.push(userLookup[userLookup[data[i].id].filename].name + "\t" + data[i].screen_name)
 			}
 		}
@@ -107,9 +112,9 @@ function onlyUnique(value, index, self) {
 
 
 function processQueue() {
-	if (userIdQueue.length >= 30) {
+	if (userIdQueue.length >= 90) {
 		console.log("Popping queue")
 		sendBatchUserRequest()
-		setTimeout(processQueue, 60*1000)
+		setTimeout(processQueue, 30*1000)
 	}
 }
