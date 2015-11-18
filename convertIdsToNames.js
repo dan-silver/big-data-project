@@ -17,8 +17,10 @@ var T = new Twit({
 
 var DATA_DIRECTORY = 'data/'
 
-var global_user_map = {}; // {userid: name}
+var global_user_map = {}, // {userid: name}
+	userIdQueue = []
 
+// read in the data files and add their lines to the queue
 fs.readdir(DATA_DIRECTORY, function(err, files) {
 	if (err) throw err;
 	for (var i=0; i<files.length; i++) {
@@ -43,9 +45,6 @@ fs.readdir(DATA_DIRECTORY, function(err, files) {
 		})(i);
 	}
 });
-
-
-var userIdQueue = []
 
 function addUserIdToQueue(file, userId) {
 	userIdQueue.push({userId: userId, filename: file.replace('.txt', '')});
@@ -116,6 +115,6 @@ function processQueue() {
 	if (userIdQueue.length >= 150) {
 		console.log("Popping queue,", userIdQueue.length, "users remaining")
 		sendBatchUserRequest()
-		setTimeout(processQueue, 30*1000)
+		setTimeout(processQueue, 5*1000)
 	}
 }
