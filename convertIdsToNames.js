@@ -1,8 +1,8 @@
-// create output usernames.txt
+// create output userFollowingList.txt
 // loop over all the data files
 	// in batches of 100
 		// map userid to name
-		// write names to usernames.txt in format "name1 tab name2" where name1 is following name2
+		// write names to userFollowingList.txt in format "name1 tab name2" where name1 is following name2
 
 var Twit = require('twit'),
 	fs = require('fs'),
@@ -17,11 +17,11 @@ var T = new Twit({
 
 var DATA_DIRECTORY = 'data/'
 
-var global_user_map = {}; // {userid:name}
+var global_user_map = {}; // {userid: name}
 
 fs.readdir(DATA_DIRECTORY, function(err, files) {
 	if (err) throw err;
-	for(var i=0; i<files.length; i++) {
+	for (var i=0; i<files.length; i++) {
 		var file = files[i];
 		var rl = require('readline').createInterface({
 			input: require('fs').createReadStream(DATA_DIRECTORY + file)
@@ -36,7 +36,7 @@ fs.readdir(DATA_DIRECTORY, function(err, files) {
 		(function(i) { //bind i to a local var in the async callback
 			rl.on('close', function () {
 				// after the last file is read and the entries are added to the queue
-				if (i == files.length -1) {
+				if (i == files.length - 1) {
 					processQueue();
 				}
 			});
@@ -52,7 +52,6 @@ function addUserIdToQueue(file, userId) {
 }
 
 function sendBatchUserRequest() {
-
 	var ids = [],
 		batchOfUsers = [];
 
@@ -65,14 +64,10 @@ function sendBatchUserRequest() {
 		// check if we've already cached the id
 		if (!(user.userId in global_user_map)) {
 			ids.push(user.userId)
-		} else {
-			console.log("cache hit 1")
 		}
 
 		if (!(user.filename in global_user_map)) {
 			ids.push(user.filename)
-		} else {
-			console.log("cache hit 2")
 		}
 		
 		ids = ids.filter(onlyUnique);
@@ -100,13 +95,11 @@ function sendBatchUserRequest() {
 			var followerId  = user.filename;
 			var followingId = user.userId;
 
-			var followerName  = global_user_map[followerId] ;
+			var followerName  = global_user_map[followerId];
 			var followingName = global_user_map[followingId];
 			
 			lines.push(followerName + "\t" + followingName);
 		}
-
-
 
 		fs.appendFile('userFollowingList.txt', lines.join('\n') + "\n", function (error) {
 			if (error) throw error;
@@ -114,16 +107,14 @@ function sendBatchUserRequest() {
 	});
 }
 
-
 // helper method to remove duplicates from an array
 function onlyUnique(value, index, self) { 
     return self.indexOf(value) === index;
 }
 
-
 function processQueue() {
 	if (userIdQueue.length >= 150) {
-		console.log("Popping queue")
+		console.log("Popping queue,", userIdQueue.length, "users remaining")
 		sendBatchUserRequest()
 		setTimeout(processQueue, 30*1000)
 	}
