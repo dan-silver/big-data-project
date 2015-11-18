@@ -60,7 +60,7 @@ function sendBatchUserRequest() {
 
 		batchOfUsers.push(user);
 
-		// check if we've already cached the id
+		// check if we've already cached the id and filename
 		if (!(user.userId in global_user_map)) {
 			ids.push(user.userId)
 		}
@@ -68,7 +68,7 @@ function sendBatchUserRequest() {
 		if (!(user.filename in global_user_map)) {
 			ids.push(user.filename)
 		}
-		
+
 		ids = ids.filter(onlyUnique);
 	}
 
@@ -96,7 +96,7 @@ function sendBatchUserRequest() {
 
 			var followerName  = global_user_map[followerId];
 			var followingName = global_user_map[followingId];
-			
+
 			lines.push(followerName + "\t" + followingName);
 		}
 
@@ -108,7 +108,7 @@ function sendBatchUserRequest() {
 
 // helper method to remove duplicates from an array
 function onlyUnique(value, index, self) { 
-    return self.indexOf(value) === index;
+	return self.indexOf(value) === index;
 }
 
 function processQueue() {
@@ -118,3 +118,11 @@ function processQueue() {
 		setTimeout(processQueue, 5*1000)
 	}
 }
+
+
+//every 30s save the userid-name map
+setInterval(function() {
+	fs.writeFile("global_user_map.txt", JSON.stringify(global_user_map), function(err) {
+		if (err) throw err;
+	});
+}, 1000*30);
