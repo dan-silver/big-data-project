@@ -48,8 +48,6 @@ function appendLineSeparatedToFile(filename, array) {
 
 // screenname, twitter terminator, limit
 
-//seed queue with 'mizzou'
-
 function processQueue() {
 	if (queue.length == 0) {
 		console.log('queue is empty')
@@ -62,6 +60,7 @@ function processQueue() {
 	})
 }
 
-queue.push('33388399') //@mizzou
-// queue.push('39822897')
+//seed queue with 'mizzou'
+queue.push('543793826') //@mizzou
+
 processQueue()

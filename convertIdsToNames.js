@@ -6,7 +6,11 @@
 
 var Twit = require('twit'),
 	fs = require('fs'),
-	keys = require('./keys.js')
+	keys = require('./keys.js'),
+	global_user_map = JSON.parse(fs.readFileSync('global_user_map.txt', 'utf8')); // {userid: name}
+
+
+console.log(global_user_map)
 
 var T = new Twit({
   consumer_key: keys.consumer_key,
@@ -17,8 +21,7 @@ var T = new Twit({
 
 var DATA_DIRECTORY = 'data/'
 
-var global_user_map = {}, // {userid: name}
-	userIdQueue = []
+var userIdQueue = []
 
 // read in the data files and add their lines to the queue
 fs.readdir(DATA_DIRECTORY, function(err, files) {
@@ -118,7 +121,6 @@ function processQueue() {
 		setTimeout(processQueue, 5*1000)
 	}
 }
-
 
 //every 30s save the userid-name map
 setInterval(function() {
