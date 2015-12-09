@@ -3,6 +3,7 @@ package followers;
 import java.io.IOException;
 import java.util.Iterator;
 
+
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
@@ -18,21 +19,44 @@ import org.apache.hadoop.mapreduce.lib.input.TextInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 
+/**
+ * This is a MapReduce code to find the Twitter followers count and their names 
+ * from the given data-set collected using the Twitter Scrapper code written in JavaScript.
+ * 
+ * @author Revanth Varma Datla
+ *
+ */
 
 public class FollowersNamesAndCount  {
 
-	public static class MapClass extends Mapper<LongWritable, Text,Text, TwitterUserWritable > {
-
+	public static class MapClass extends Mapper<LongWritable, Text,Text, TwitterUserWritable > {		
+		
+		/**
+		 * The Mapper takes the random key and each row as an value for input and 
+		 * outputs the follower name(X) as key and the user who follows(X) and count(1) as a value.
+		 * The output value is stored in a user-defined data-type called TwitterUserWritable 
+		 * which stores the user-name and count.
+		 * e.g. Input: 1	Revanth	mani
+		 * 		Output:mani	(Revanth,1)
+		 * Here the representation (Revanth,1) is stored as an new TwitterUserWritable object 
+		 */
 		public void map (LongWritable key, Text value, Context context)
 				throws IOException, InterruptedException {
 			String sValue = value.toString();
 			String[] values = sValue.trim().split("\t");
+
 			context.write(new Text(values[1]),new TwitterUserWritable(values[0], 1));			
 		}
 	}
 
 	public static class Combiner extends Reducer<Text, TwitterUserWritable,Text,TwitterUserWritable> {
 
+		/**
+		 * The combiner class is used to avoid shuffling large data.
+		 * e.g. Input: mani	(Revanth,1)
+		 * 			   mani (Dan,1)
+		 * 		Output: mani	(Revanth Dan,2)
+		 */
 		public void reduce(Text key, Iterable<TwitterUserWritable> values, Context context)
 				throws IOException, InterruptedException {
 
@@ -49,7 +73,12 @@ public class FollowersNamesAndCount  {
 	}
 
 	public static class Reduce extends Reducer<Text, TwitterUserWritable,Text,TwitterUserWritable> {
-
+		/**
+		 * The reduce class will sum up all the followers count.
+		 * e.g. Input: mani (Revanth Dan,2)
+		 * 			   mani	(Noelan Ankil,2)
+		 * 		Output: mani (Revanth Dan Noelan Ankil,4)
+		 */
 		public void reduce(Text key, Iterable<TwitterUserWritable> values, Context context)
 				throws IOException, InterruptedException {
 
@@ -68,17 +97,26 @@ public class FollowersNamesAndCount  {
 
 	public static class PostProcessing extends Mapper<Text, TwitterUserWritable,Text, TwitterUserWritable > {
 
+		/**
+		 * Post-Processing class outputs only the followers with count > 50 
+		 * follower name, count and list of users who are following as a tab separating fields.
+		 * e.g. Input: 
+		 */
 		public void map (Text key, TwitterUserWritable value, Context context)
 				throws IOException, InterruptedException {
 
 
-			if ( value.getNoOfFollowers() > 50 ) {
+			if ( value.getNoOfFollowers() > 1 ) {
 				context.write(key, value);
 			}
 		}
 	}
 
-
+	/**
+	 * Deletes the hdfs output directory before the Job starts.
+	 * @param conf - The mapreduce configuration
+	 * @param path - output directory path.
+	 */
 	public static void deletePreviousOutput(Configuration conf, Path path)  {
 
 		try {
@@ -93,7 +131,7 @@ public class FollowersNamesAndCount  {
 	public static void main(String[] args) throws Exception {
 		Path in = new Path(args[0]);
 		Path out = new Path(args[1]);
-
+		
 		Configuration conf = new Configuration();
 
 		deletePreviousOutput(conf, out);
@@ -112,7 +150,7 @@ public class FollowersNamesAndCount  {
 		// Combiner class 
 		job.setCombinerClass(Combiner.class);
 
-		// Set the Reducer class, we are using the LongSumReducer from Hadoop MapReduce API
+		// Set the Reducer class.
 		ChainReducer.setReducer(job, Reduce.class, Text.class, TwitterUserWritable.class, Text.class, TwitterUserWritable.class, conf);
 
 		// Set the post processing step after Reducer to output only users having followers greater than 50
